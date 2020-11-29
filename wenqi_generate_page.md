@@ -1,3 +1,10 @@
+# TODO
+
+* Add contact email to side bar
+  * seems in _includes/author-profile.html
+* Update Talks
+* Update CV -> add PDF file
+
 # Intro
 
 ### Generate HTML
@@ -87,3 +94,6 @@ I added one line to it.
 ```html
 <p> <i>{{ page.authors_before_me }}</i> <i><b>{{ page.author_me }}</b></i> <i>{{ page.authors_after_me }}</i> </p>
 ```
+
+
+
