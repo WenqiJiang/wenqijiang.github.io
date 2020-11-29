@@ -13,3 +13,11 @@ Run bundle exec jekyll liveserve to generate the HTML and serve it from localhos
 ### Apply Changes from Orignal Template to your own
 
 http://archive.is/3TPas
+
+### Markdown style in this repo
+
+_pages/markdown.md
+
+### Top Bar
+
+_data/navigation.yml
