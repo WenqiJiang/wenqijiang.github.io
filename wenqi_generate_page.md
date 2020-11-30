@@ -3,7 +3,11 @@
 * Add contact email to side bar
   * seems in _includes/author-profile.html
 * Update Talks
-* Update CV -> add PDF file
+* Update CV  
+  * add PDF file in CV sub-page, and about-me
+* Conference Format 
+  * **WSDM 2021** [core A*]. *The 14th ACM International Conference on Web Search and Data Mining*.
+  * https://shuaizhang.tech/publications/
 
 # Intro
 
@@ -17,27 +21,49 @@ Run bundle install to install ruby dependencies. If you get errors, delete Gemfi
 
 Run bundle exec jekyll liveserve to generate the HTML and serve it from localhost:4000 the local server will automatically rebuild and refresh the pages on change.
 
+```bash
+# everytime generate HTML
+bundle clean
+
+# jekyll will automatically apply changes when you change .md files
+bundle exec jekyll liveserve
+
+# localhost:4000 in browser
+```
+
+
+
 ### Apply Changes from Orignal Template to your own
 
 http://archive.is/3TPas
+
+
 
 ### Markdown style in this repo
 
 _pages/markdown.md
 
+
+
 ### Top Bar
 
 _data/navigation.yml
 
+
+
 ### Manual of this Repo
 
 https://mmistakes.github.io/minimal-mistakes/docs/configuration/
+
+
 
 ### Add images
 
 must commit and push, before localhost can recognize it: they search from the git repo instead of local machine.
 
 https://github.com/academicpages/academicpages.github.io/issues/91
+
+
 
 ### Empty Entry for Yaml
 
@@ -85,6 +111,8 @@ I added one line to it.
 <p> <i>{{ post.authors_before_me }}</i> <i><b>{{ post.author_me }}</b></i> <i>{{ post.authors_after_me }}</i> </p>
 ```
 
+
+
 #### _layouts/single.html
 
 This file is used as template after people click one of your publications.
@@ -96,4 +124,12 @@ I added one line to it.
 ```
 
 
+
+# File Structure
+
+## _pages
+
+Most .md files are stored here.
+
+For example, "about.md", "cv.md"
 

@@ -9,10 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+Check out my [CV](https://wenqijiang.github.io/files/2020.8.30-Wenqi-CV.pdf) here.
+
 Education
 ======
-* Ph.D, ETH Zurich, 2020 ~ Now
-* M.S., Columbia University University, 2018 ~ 2020
+* Ph.D, ETH Zurich, 2021 ~ Now
+* M.S., Columbia University, 2018 ~ 2020
 * B.S., Huazhong University of Science and Technology, 2014 ~ 2018
 
 Work experience
