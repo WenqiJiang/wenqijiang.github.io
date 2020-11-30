@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 1st-year PhD student at ETH Zurich, working in [Systems Group](https://systems.ethz.ch/) with [Prof. Gustavo Alonso](https://people.inf.ethz.ch/alonso/). My general interest lies in future hardware and software systems. To be more specific, I am exploring how reconfigurable hardware (FPGAs) can be deployed in data centers efficiently. Before joining ETH Zurich, I was a master student at Columbia Univerity, where I worked in [System-Level Design Group](https://sld.cs.columbia.edu/) with [Prof. Luca Carloni](http://www.cs.columbia.edu/~luca/). 
+I am a 1st-year PhD student at ETH Zurich, working in [Systems Group](https://systems.ethz.ch/) with [Prof. Gustavo Alonso](https://people.inf.ethz.ch/alonso/). My general interest lies in future hardware and software systems. To be more specific, I am exploring how reconfigurable hardware (FPGAs) can be deployed in data centers efficiently. Before joining ETH Zurich, I was a master student at Columbia Univerity, where I worked in [System-Level Design Group](https://sld.cs.columbia.edu/) with [Prof. Luca Carloni](http://www.cs.columbia.edu/~luca/). You can check out my [CV](https://wenqijiang.github.io/files/2020.8.30-Wenqi-CV.pdf) here.
 
 <!-- A data-driven personal website
 ======
