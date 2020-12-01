@@ -1,9 +1,6 @@
 # TODO
 
 * Transfer it to my own site?
-* Add contact navigation bar 
-  * address
-  * email
 * Add contact email to side bar
   * seems in _includes/author-profile.html
 * Conference Format 
@@ -250,3 +247,38 @@ author_profile: true
 ## _site
 
 Generated HTML files by jekyll.
+
+
+
+# Deploy on Amazon S3
+
+Change the config.yml, so that the redirect base address is wenqij.com
+
+```
+#url                      : https://wenqijiang.github.io 
+url                      : https://wenqij.com
+```
+
+In S3 console, https://s3.console.aws.amazon.com/s3/home?region=us-east-2#
+
+select wenqij.com
+
+delete all existed file.
+
+in this folder, generate HTML first
+
+```
+# everytime generate HTML
+bundle clean
+
+# jekyll will automatically apply changes when you change .md files
+bundle exec jekyll liveserve
+```
+
+Then shut down this process, to provide read permission to S3
+
+drag all the files in _site/ to upload panel in S3
+
+** Problem using S3 **
+
+After doing this, the index page is not response (neither localhost:4000 nor wenqij.com)
