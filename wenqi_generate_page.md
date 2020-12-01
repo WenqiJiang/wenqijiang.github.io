@@ -1,10 +1,11 @@
 # TODO
 
+* Transfer it to my own site?
+* Add contact navigation bar 
+  * address
+  * email
 * Add contact email to side bar
   * seems in _includes/author-profile.html
-* Update Talks
-* Update CV  
-  * in the CV page, remove the "CV" title
 * Conference Format 
   * **WSDM 2021** [core A*]. *The 14th ACM International Conference on Web Search and Data Mining*.
   * https://shuaizhang.tech/publications/
@@ -83,6 +84,41 @@ venue: 'arXiv preprint'
 paperurl: ~ 
 citation:  ~ 
 ```
+
+
+
+### Add new pages to navigation bar
+
+in _data/navigation.yaml, add the new page you want, e.g., contact
+
+```yml
+  - title: "Contact"
+    url: /contact/
+```
+
+in _pages, creat a file named contact.md
+
+```
+---
+title: ""
+permalink: /contact/
+author_profile: true
+---
+
+## Address
+
+STF G222<br>
+Stampfenbachstrasse 114<br>
+8092 Zurich<br>
+Switzerland<br>
+
+## Email
+
+wenqi [dot] jiang [at] inf.ethz.ch
+
+```
+
+
 
 ### Adding author to publications
 
