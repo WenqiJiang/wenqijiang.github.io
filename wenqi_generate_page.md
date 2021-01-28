@@ -7,6 +7,30 @@
   * **WSDM 2021** [core A*]. *The 14th ACM International Conference on Web Search and Data Mining*.
   * https://shuaizhang.tech/publications/
 
+# ETH Webpage
+
+https://www.isg.inf.ethz.ch/Main/ServicesWeb
+
+ETH CS系的挂载主页：
+
+ssh wejiang@web-login.inf.ethz.ch
+
+ls public_html/
+
+在compile了本地文件以后（见intro - generate HTML），
+
+tar czvf _site.tar.gz _site/
+
+scp _site.tar.gz wejiang@web-login.inf.ethz.ch:~/
+
+在eth server上解压，
+
+tar xzvf _site.tar.gz 
+
+mv _site/* public_html/
+
+
+
 # Intro
 
 ### Generate HTML
