@@ -8,7 +8,7 @@ author_profile: true
 
 Co-first authorship is denoted by <b>*</b>
 
-FleetRec: Large-Scale Recommendation Inferenceon Hybrid GPU-FPGA Clusters <br>
+FleetRec: Large-Scale Recommendation Inference on Hybrid GPU-FPGA Clusters <br>
 <span style="color:grey"><span style="color:black">Wenqi Jiang\*,</span> Zhenhao He\*, Shuai Zhang, Kai Zeng, Liang Feng, Jiansong Zhang, Tongxuan Liu, Yong Li, Jingren Zhou, Ce Zhang, Gustavo Alonso </span><br>
 Under Submission <br>
 

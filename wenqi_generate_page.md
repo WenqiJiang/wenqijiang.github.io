@@ -25,7 +25,11 @@ scp _site.tar.gz wejiang@web-login.inf.ethz.ch:~/
 
 在eth server上解压，
 
+ssh wejiang@web-login.inf.ethz.ch
+
 tar xzvf _site.tar.gz 
+
+rm -r public_html/*
 
 mv _site/* public_html/
 
