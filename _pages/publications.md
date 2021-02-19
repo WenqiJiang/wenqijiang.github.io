@@ -17,9 +17,9 @@ Switch Spaces: Learning Product Spaces with Sparse Gating <br>
 Under Submission <br>
 
 
-MicroRec: Accelerating Deep Recommendation Systems to Microseconds by Hardware and Data Structure Solutions [[Paper](https://arxiv.org/pdf/2010.05894.pdf)]<br>
+MicroRec: Efficient Recommendation Inference by Hardware and Data Structure Solutions [[Paper](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/470540/MicroRec_camera_ready.pdf?sequence=1&isAllowed=y)]<br>
 <span style="color:grey"><span style="color:black">Wenqi Jiang,</span> Zhenhao He, Shuai Zhang, Thomas B. Preußer, Kai Zeng, Liang Feng, Jiansong Zhang, Tongxuan Liu, Yong Li, Jingren Zhou, Ce Zhang, Gustavo Alonso </span><br>
-Conference on Machine Learning and Systems <b>(MLSys'21)</b>, 2021 <br>
+4th Conference on Machine Learning and Systems <b>(MLSys'21)</b>, 2021 <br>
 
 <!-- (To appear) [MicroRec: Accelerating Deep Recommendation Systems to Microseconds by Hardware and Data Structure Solutions](https://arxiv.org/pdf/2010.05894.pdf), <u>MLSys 2021</u>, 4th Conference on Machine Learning and Systems <br>
 <em><u>Wenqi Jiang</u>, Zhenhao He, Shuai Zhang, Thomas B. Preußer, Kai Zeng, Liang Feng, Jiansong Zhang, Tongxuan Liu, Yong Li, Jingren Zhou, Ce Zhang, Gustavo Alonso <br></em> -->
