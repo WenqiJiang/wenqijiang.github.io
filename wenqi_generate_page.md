@@ -1,11 +1,10 @@
 # TODO
 
+* Modify the Talk format
+  * in a similar manner to my CV
 * Transfer it to my own site?
 * Add contact email to side bar
   * seems in _includes/author-profile.html
-* Conference Format 
-  * **WSDM 2021** [core A*]. *The 14th ACM International Conference on Web Search and Data Mining*.
-  * https://shuaizhang.tech/publications/
 
 # ETH Webpage
 

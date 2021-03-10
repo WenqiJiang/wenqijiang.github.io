@@ -1,16 +1,22 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Biography"
+excerpt: "Home"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /home/
+  - /home.html
 ---
 
-I am a 1st-year PhD student in the [Systems Group](https://systems.ethz.ch/) at ETH Zurich, where I am fortunate to be advised by [Prof. Gustavo Alonso](https://people.inf.ethz.ch/alonso/). My general interest lies in future hardware and software systems. To be more specific, I am exploring how reconfigurable hardware (FPGAs) can be deployed in data centers efficiently. Before joining ETH Zurich, I was a master student at Columbia Univerity, where I worked in the [System-Level Design Group](https://sld.cs.columbia.edu/) with [Prof. Luca Carloni](http://www.cs.columbia.edu/~luca/). 
+I am a first year PhD student in the Systems Group at ETH Zurich, where I am fortunate to be advised by Prof. Gustavo Alonso. Before joining ETH Zurich, I was a master student at Columbia Univerity, where I worked in the System-Level Design Group with Prof. Luca Carloni. 
+
+My research is centered around improving and replacing the state-of-the-art software-based systems by emerging heterogeneous hardware. To be more specific, I am exploring how reconfigurable hardware (FPGAs) can be applied and deployed in data centers efficiently. Such research ranges from application-specific designs such as recommendation systems and information retrieval systems to infrastructure development such as distributed frameworks and virtualization on the cloud. 
 
 <!-- A data-driven personal website
+
+
+I am a 1st-year PhD student in the [Systems Group](https://systems.ethz.ch/) at ETH Zurich, where I am fortunate to be advised by [Prof. Gustavo Alonso](https://people.inf.ethz.ch/alonso/). Before joining ETH Zurich, I was a master student at Columbia Univerity, where I worked in the [System-Level Design Group](https://sld.cs.columbia.edu/) with [Prof. Luca Carloni](http://www.cs.columbia.edu/~luca/). 
+
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
