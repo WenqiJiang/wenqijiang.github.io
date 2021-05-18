@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Check out my [CV](http://people.inf.ethz.ch/wejiang/files/2021.2.21-Wenqi-CV.pdf) here.
+Check out my [CV](http://people.inf.ethz.ch/wejiang/files/2021.5.18_Wenqi_Jiang_CV.pdf) here.
 
 Education
 ======

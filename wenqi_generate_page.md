@@ -8,13 +8,11 @@
 
 # ETH Webpage
 
-https://www.isg.inf.ethz.ch/Main/ServicesWeb
-
 ETH CS系的挂载主页：
 
-ssh wejiang@web-login.inf.ethz.ch
+https://www.isg.inf.ethz.ch/Main/ServicesWeb
 
-ls public_html/
+
 
 在compile了本地文件以后（见intro - generate HTML），
 

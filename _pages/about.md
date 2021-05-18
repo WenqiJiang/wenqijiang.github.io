@@ -1,14 +1,16 @@
 ---
 permalink: /
-title: "Biography"
+title: ""
 excerpt: "Home"
 author_profile: true
 redirect_from: 
   - /home/
   - /home.html
+  - /about/
+  - /about.html
 ---
 
-I am a first year PhD student in the Systems Group at ETH Zurich, where I am fortunate to be advised by Prof. Gustavo Alonso. Before joining ETH Zurich, I was a master student at Columbia Univerity, where I worked in the System-Level Design Group with Prof. Luca Carloni. 
+I am a first-year PhD student in the Systems Group at ETH Zurich, where I am fortunate to be advised by Prof. Gustavo Alonso. I received my M.S. and B.Eng. degrees from Columbia University and Huazhong University of Science and Technology in 2020 and 2018 separately.
 
 My research is centered around improving and replacing the state-of-the-art software-based systems by emerging heterogeneous hardware. To be more specific, I am exploring how reconfigurable hardware (FPGAs) can be applied and deployed in data centers efficiently. Such research ranges from application-specific designs such as recommendation systems and information retrieval systems to infrastructure development such as distributed frameworks and virtualization on the cloud. 
 
