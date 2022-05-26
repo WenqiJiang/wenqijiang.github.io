@@ -1,5 +1,5 @@
 ---
-title: "Selected Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
@@ -8,13 +8,14 @@ author_profile: true
 
 Co-first authorship is denoted by <b>*</b>
 
+<!-- <span style="color:black">[KDD 2021]</span> <span style="color:grey"><span style="color:black">Wenqi Jiang\*,</span> Zhenhao He\*, Shuai Zhang, Kai Zeng, Liang Feng, Jiansong Zhang, Tongxuan Liu, Yong Li, Jingren Zhou, Ce Zhang, Gustavo Alonso, </span> "FleetRec: Large-Scale Recommendation Inference on Hybrid GPU-FPGA Clusters." <span style="color:grey">Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.</span> -->
 
-FleetRec: Large-Scale Recommendation Inference on Hybrid GPU-FPGA Clusters <br>
+FleetRec: Large-Scale Recommendation Inference on Hybrid GPU-FPGA Clusters [[Paper](http://people.inf.ethz.ch/wejiang/files/2021_KDD_FleetRec.pdf)]<br>
 <span style="color:grey"><span style="color:black">Wenqi Jiang\*,</span> Zhenhao He\*, Shuai Zhang, Kai Zeng, Liang Feng, Jiansong Zhang, Tongxuan Liu, Yong Li, Jingren Zhou, Ce Zhang, Gustavo Alonso </span><br>
-<b>KDD 2021</b>: Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining <br>
+<b>KDD 2021</b>: Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining <br>
 
-Distributed Recommendation Inference on FPGA Clusters<br>
-Yu Zhu, Zhenhao He, <span style="color:grey"><span style="color:black">Wenqi Jiang,</span> Kai Zeng, Jingren Zhou, Gustavo Alonso </span><br>
+Distributed Recommendation Inference on FPGA Clusters [[Paper](http://people.inf.ethz.ch/wejiang/files/2021_FPL_Distributed_Recommendation.pdf)]<br>
+<span style="color:grey">Yu Zhu, Zhenhao He, <span style="color:black">Wenqi Jiang,</span> Kai Zeng, Jingren Zhou, Gustavo Alonso </span><br>
 FPL 2021: 31th International Conference on Field-Programmable Logic and Applications <br>
 <!-- MicroRec: Efficient Recommendation Inference by Hardware and Data Structure Solutions [[Paper](http://people.inf.ethz.ch/wejiang/files/2021_MLSys_MicroRec.pdf)]<br>
 <span style="color:grey"><span style="color:black">Wenqi Jiang,</span> Zhenhao He, Shuai Zhang, Thomas B. Preußer, Kai Zeng, Liang Feng, Jiansong Zhang, Tongxuan Liu, Yong Li, Jingren Zhou, Ce Zhang, Gustavo Alonso </span><br>
@@ -25,15 +26,18 @@ MicroRec: Efficient Recommendation Inference by Hardware and Data Structure Solu
 <b>MLSys 2021</b>: 4th Conference on Machine Learning and Systems<br>
 
 
-# Preprints
+<!-- # Preprints
 
-Switch Spaces: Learning Product Spaces with Sparse Gating <br>
+Knowledge Graph Embeddings with Switch Spaces <br>
 <span style="color:grey">Shuai Zhang, Yi Tay, <span style="color:black">Wenqi Jiang,</span> Da-cheng Juan, Ce Zhang</span><br>
 Under Submission <br>
 
 Dynamic Sampling and Selective Masking for Communication-Efficient Federated Learning [[Paper](https://arxiv.org/pdf/2003.09603.pdf)]<br>
 <span style="color:grey">Shaoxiong Ji\*, <span style="color:black">Wenqi Jiang\*,</span> Anwar Walid, Xue Li </span><br>
-arXiv preprint, 2020
+arXiv preprint, 2020 -->
+
+
+
 
 <!-- <b>Wenqi Jiang</b>, Zhenhao He, Shuai Zhang, Thomas B. Preußer, Kai Zeng, Liang Feng, Jiansong Zhang, Tongxuan Liu, Yong Li, Jingren Zhou, Ce Zhang, Gustavo Alonso, <b>"MicroRec: Efficient Recommendation Inference by Hardware and Data Structure Solutions"</b>, 4th Conference on Machine Learning and Systems <b>(MLSys)</b>, 2021 [[Paper](http://people.inf.ethz.ch/wejiang/files/2021_MLSys_MicroRec.pdf)]<br>
 

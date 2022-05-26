@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Wenqi Jiang"
 title_separator          : "-"
 name                     : &name "Wenqi Jiang"
-description              : &description "1st Year PhD Student, Dept. of Computer Science, ETH Zurich"
+description              : &description "PhD Student, Dept. of Computer Science, ETH Zurich"
 url                      : http://people.inf.ethz.ch/wejiang #https://wenqijiang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # url                      : https://wenqij.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Wenqi Jiang"
-  avatar           : "wenqi.jpg"
+  avatar           : "wenqi-cropped-compressed-36KB.jpg"
   bio              : "PhD Student, ETH Zurich"
   location         : "Zurich, Switzerland"
   employer         :

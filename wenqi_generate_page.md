@@ -68,6 +68,10 @@ _pages/markdown.md
 
 
 
+The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml).
+
+
+
 ### Top Bar
 
 _data/navigation.yml
@@ -237,6 +241,10 @@ Co-author, under review.<br>
 
 
 # File Structure
+
+## _config.yaml
+
+website, photos, links, website organizations, etc.
 
 ## _pages
 
