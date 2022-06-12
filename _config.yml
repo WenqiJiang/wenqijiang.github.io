@@ -11,7 +11,9 @@ title                    : "Wenqi Jiang"
 title_separator          : "-"
 name                     : &name "Wenqi Jiang"
 description              : &description "PhD Student, Dept. of Computer Science, ETH Zurich"
-url                      : http://people.inf.ethz.ch/wejiang #https://wenqijiang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+# Wenqi: Seems http://people.inf.ethz.ch/wejiang will lead to incorrect display!
+# Use github.io instead
+url                      : https://wenqijiang.github.io # http://people.inf.ethz.ch/wejiang #https://wenqijiang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # url                      : https://wenqij.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wenqijiang/wenqijiang.github.io"
@@ -103,18 +105,18 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : wenqi-jiang-1553a316a
+  linkedin         : "wenqi-jiang-1553a316a"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : WenqiJiang2
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : #https://www.youtube.com/channel/UCfn8GgjT-4NqBig2_iFDMgA
   wikipedia        :
   # email            : wenqi[dot]jiang[at]inf.ethz.ch
 

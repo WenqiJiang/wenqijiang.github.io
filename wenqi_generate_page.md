@@ -16,19 +16,28 @@ https://www.isg.inf.ethz.ch/Main/ServicesWeb
 
 在compile了本地文件以后（见intro - generate HTML），
 
-tar czvf _site.tar.gz _site/
-
-scp _site.tar.gz wejiang@web-login.inf.ethz.ch:~/
+```
+./compress_cp.sh
+# which did the following
+# tar czvf _site.tar.gz _site/
+# scp _site.tar.gz wejiang@web-login.inf.ethz.ch:~/
+```
 
 在eth server上解压，
 
 ssh wejiang@web-login.inf.ethz.ch
 
-tar xzvf _site.tar.gz 
+```
+./cp_website.sh
+# which did the following
+# tar xzvf _site.tar.gz 
+# rm -r public_html/*
+# mv _site/* public_html/
+```
 
-rm -r public_html/*
 
-mv _site/* public_html/
+
+
 
 
 
@@ -282,6 +291,10 @@ author_profile: true
 Generated HTML files by jekyll.
 
 
+
+### _data
+
+navigation.yaml decides what bars appear on top of the website, e.g., talks, cv
 
 # Deploy on Amazon S3
 
