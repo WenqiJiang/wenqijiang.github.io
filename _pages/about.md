@@ -14,6 +14,8 @@ I am a second-year PhD student at ETH Zurich advised by Prof. Gustavo Alonso. I 
 
 My research interests include computer architecture, data management, and machine learning. More specifically, I am interested in enabling large-scale vector retrieval (approximate nearest neighbor search) by cross-stack solutions: from efficient retrieval algorithms to distributed systems design and high-performance hardware support. A while ago, I explored hardware-accelerated solutions for industry-scale recommender systems. 
 
+Feel free to check out my [CV](http://people.inf.ethz.ch/wejiang/files/2021.5.18_Wenqi_Jiang_CV.pdf) to know more about me.
+
 <!-- My research is centered around improving and replacing the state-of-the-art software-based systems by emerging heterogeneous hardware. To be more specific, I am exploring how reconfigurable hardware (FPGAs) can be applied and deployed in data centers efficiently. Such research ranges from application-specific designs such as recommendation systems and information retrieval systems to infrastructure development such as distributed frameworks and virtualization on the cloud.  -->
 
 <!-- A data-driven personal website

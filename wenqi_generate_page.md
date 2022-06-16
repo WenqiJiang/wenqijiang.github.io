@@ -37,6 +37,12 @@ ssh wejiang@web-login.inf.ethz.ch
 
 
 
+For the eth host, I redirect to github.io by adding this line in index.html
+
+```
+<meta http-equiv="refresh" content="0; URL=https://wenqijiang.github.io/" />
+```
+
 
 
 
