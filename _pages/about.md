@@ -14,7 +14,7 @@ I am a third-year PhD student at ETH Zurich advised by Gustavo Alonso and Torste
 
 My research interests include  data management, computer architecture, and machine learning systems. Recently, I have been working on building efficient large-scale vector retrieval (approximate nearest neighbor search) systems, recommender systems, and spatial data processing systems, all based on heterogeneous hardware such as FPGAs and GPUs. 
 
-Feel free to check out my [CV](https://wenqijiang.github.io/files/2023.6.17_Wenqi_Jiang_CV) to know more about me.
+Feel free to check out my [CV](https://wenqijiang.github.io/files/2023.6.17_Wenqi_Jiang_CV.pdf) to know more about me.
 
 <!-- My research is centered around improving and replacing the state-of-the-art software-based systems by emerging heterogeneous hardware. To be more specific, I am exploring how reconfigurable hardware (FPGAs) can be applied and deployed in data centers efficiently. Such research ranges from application-specific designs such as recommendation systems and information retrieval systems to infrastructure development such as distributed frameworks and virtualization on the cloud.  -->
 
