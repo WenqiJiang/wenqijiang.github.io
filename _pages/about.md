@@ -10,7 +10,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student at ETH Zurich advised by Gustavo Alonso and Torsten Hoefler. Before joining ETH Zurich in 2021, I received my M.S. degree from Columbia University and B.Eng. from Huazhong University of Science and Technology, both with honor.
+I am a third-year PhD student at ETH Zurich advised by Gustavo Alonso and Torsten Hoefler. Before joining the Systems Group at ETH Zurich in 2021, I received my M.S. degree from Columbia University and B.Eng. from Huazhong University of Science and Technology, both with honor.
 
 My research interests include  data management, computer architecture, and machine learning systems. Recently, I have been working on building efficient large-scale vector retrieval (approximate nearest neighbor search) systems, recommender systems, and spatial data processing systems, all based on heterogeneous hardware such as FPGAs and GPUs. 
 

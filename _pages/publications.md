@@ -13,7 +13,7 @@ Co-first authorship is denoted by <b>*</b>
 <!-- <span style="color:black">[KDD 2021]</span> <span style="color:grey"><span style="color:black">Wenqi Jiang\*,</span> Zhenhao He\*, Shuai Zhang, Kai Zeng, Liang Feng, Jiansong Zhang, Tongxuan Liu, Yong Li, Jingren Zhou, Ce Zhang, Gustavo Alonso, </span> "FleetRec: Large-Scale Recommendation Inference on Hybrid GPU-FPGA Clusters." <span style="color:grey">Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.</span> -->
 
 Co-design Hardware and Algorithm for Vector Search<br>
-<span style="color:grey"><span style="color:black">Wenqi Jiang,</span> Shigang Li, Yu Zhu, Johannes de Fine Licht， Zhenhao He, Runbin Shi, Cedric Renggli, Shuai Zhang, Theodoros Rekatsinas, Torsten Hoefler, and Gustavo Alonso </span><br>
+<span style="color:grey"><span style="color:black">Wenqi Jiang,</span> Shigang Li, Yu Zhu, Johannes de Fine Licht, Zhenhao He, Runbin Shi, Cedric Renggli, Shuai Zhang, Theodoros Rekatsinas, Torsten Hoefler, and Gustavo Alonso </span><br>
 <b>SC'23</b>: The International Conference for High Performance Computing, Networking, Storage and Analysis <br>
 
 FleetRec: Large-Scale Recommendation Inference on Hybrid GPU-FPGA Clusters [[Paper](http://people.inf.ethz.ch/wejiang/files/2021_KDD_FleetRec.pdf)] [[Talk](https://www.youtube.com/watch?v=7LL-6jPR-l4&t=2s)] [[Code](https://github.com/fpgasystems/GPU-FPGA-Recommendation-System)]<br>
@@ -38,6 +38,9 @@ Data Processing with FPGAs on Modern Architectures<br>
 <b>SIGMOD'23 Tutorial</b>: International Conference on Management of Data <br>
 
 
+Dynamic Sampling and Selective Masking for Communication-Efficient Federated Learning [[Paper](https://arxiv.org/pdf/2003.09603.pdf)]<br>
+<span style="color:grey">Shaoxiong Ji, <span style="color:black">Wenqi Jiang,</span> Anwar Walid, Xue Li </span><br>
+arXiv preprint, 2020 <br>
 
 <!-- # Preprints
 
