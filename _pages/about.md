@@ -10,11 +10,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student at ETH Zurich advised by Prof. Gustavo Alonso. I have also been worked closely with Torsten Hoefler, Ce Zhang, and Theo Rekatsinas. Before joining ETH Zurich in 2021, I received my M.S. degree from Columbia University and B.Eng. from Huazhong University of Science and Technology, both with honor.
+I am a third-year PhD student at ETH Zurich advised by Gustavo Alonso and Torsten Hoefler. Before joining ETH Zurich in 2021, I received my M.S. degree from Columbia University and B.Eng. from Huazhong University of Science and Technology, both with honor.
 
-My research interests include computer architecture, data management, and machine learning. More specifically, I am interested in enabling large-scale vector retrieval (approximate nearest neighbor search) by cross-stack solutions: from efficient retrieval algorithms to distributed systems design and high-performance hardware support. A while ago, I explored hardware-accelerated solutions for industry-scale recommender systems. 
+My research interests include  data management, computer architecture, and machine learning systems. Recently, I have been working on building efficient large-scale vector retrieval (approximate nearest neighbor search) systems, recommender systems, and spatial data processing systems, all based on heterogeneous hardware such as FPGAs and GPUs. 
 
-Feel free to check out my [CV](http://people.inf.ethz.ch/wejiang/files/2021.5.18_Wenqi_Jiang_CV.pdf) to know more about me.
+Feel free to check out my [CV](https://wenqijiang.github.io/files/2023.6.17_Wenqi_Jiang_CV) to know more about me.
 
 <!-- My research is centered around improving and replacing the state-of-the-art software-based systems by emerging heterogeneous hardware. To be more specific, I am exploring how reconfigurable hardware (FPGAs) can be applied and deployed in data centers efficiently. Such research ranges from application-specific designs such as recommendation systems and information retrieval systems to infrastructure development such as distributed frameworks and virtualization on the cloud.  -->
 

@@ -23,6 +23,8 @@ https://www.isg.inf.ethz.ch/Main/ServicesWeb
 # scp _site.tar.gz wejiang@web-login.inf.ethz.ch:~/
 ```
 
+For github page to update, push the changes, and wait a few minutes for github to update your page on github.io
+
 在eth server上解压，
 
 ssh wejiang@web-login.inf.ethz.ch
