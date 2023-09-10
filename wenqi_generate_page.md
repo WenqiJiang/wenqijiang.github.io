@@ -63,7 +63,10 @@ Run bundle exec jekyll liveserve to generate the HTML and serve it from localhos
 
 ```bash
 # everytime generate HTML
-bundle clean
+bundle clean --force
+# rm _site/*html
+# rm -r _site/talkmap _site/redirects.json _site/feed.xml _site/sitemap.xml _site/robots.txt _site/files _site/images _site/markdown_generator _site/talkmap 
+# rm -r .DS_Store
 
 # jekyll will automatically apply changes when you change .md files
 bundle exec jekyll liveserve
@@ -103,7 +106,7 @@ https://mmistakes.github.io/minimal-mistakes/docs/configuration/
 
 ### Add images
 
-must commit and push, before localhost can recognize it: they search from the git repo instead of local machine.
+**must commit and push, before localhost can recognize it**: they search from the git repo instead of local machine.
 
 https://github.com/academicpages/academicpages.github.io/issues/91
 
