@@ -12,7 +12,7 @@ Co-first authorship is denoted by <b>*</b>
 
 <!-- <span style="color:black">[KDD 2021]</span> <span style="color:grey"><span style="color:black">Wenqi Jiang\*,</span> Zhenhao He\*, Shuai Zhang, Kai Zeng, Liang Feng, Jiansong Zhang, Tongxuan Liu, Yong Li, Jingren Zhou, Ce Zhang, Gustavo Alonso, </span> "FleetRec: Large-Scale Recommendation Inference on Hybrid GPU-FPGA Clusters." <span style="color:grey">Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.</span> -->
 
-Co-design Hardware and Algorithm for Vector Search<br>
+Co-design Hardware and Algorithm for Vector Search [[Paper](https://arxiv.org/pdf/2306.11182.pdf)] [[Code](https://github.com/WenqiJiang/SC-ANN-FPGA)]<br>
 <span style="color:grey"><span style="color:black">Wenqi Jiang,</span> Shigang Li, Yu Zhu, Johannes de Fine Licht, Zhenhao He, Runbin Shi, Cedric Renggli, Shuai Zhang, Theodoros Rekatsinas, Torsten Hoefler, and Gustavo Alonso </span><br>
 <b>SC'23</b>: The International Conference for High Performance Computing, Networking, Storage and Analysis <br>
 
@@ -31,12 +31,14 @@ MicroRec: Efficient Recommendation Inference by Hardware and Data Structure Solu
 <span style="color:grey"><span style="color:black">Wenqi Jiang,</span> Zhenhao He, Shuai Zhang, Thomas B. Preußer, Kai Zeng, Liang Feng, Jiansong Zhang, Tongxuan Liu, Yong Li, Jingren Zhou, Ce Zhang, and Gustavo Alonso </span><br>
 <b>MLSys'21</b>: 4th Conference on Machine Learning and Systems<br>
 
-## Other Publications
+## Tutorials
 
-Data Processing with FPGAs on Modern Architectures<br>
+Data Processing with FPGAs on Modern Architectures [[Paper](https://dl.acm.org/doi/pdf/10.1145/3555041.3589410?casa_token=VwR_uiM-hLgAAAAA:sDCBaEV-PwKO07yGNkngnVlxywHnp61rkL4M7aFE8FlIC5RXgoBkAWR9zV-pYHiOdRchNpOOHIi2zAE)] [[Website](https://systems.ethz.ch/research/data-processing-on-modern-hardware/hacc/sigmod-23-tutorial--data-processing-on-fpgas-with-modern-archite.html)] <br>
 <span style="color:grey"><span style="color:black">Wenqi Jiang,</span> Dario Korolija, and Gustavo Alonso </span><br>
 <b>SIGMOD'23 Tutorial</b>: International Conference on Management of Data <br>
 
+
+## Preprints
 
 Dynamic Sampling and Selective Masking for Communication-Efficient Federated Learning [[Paper](https://arxiv.org/pdf/2003.09603.pdf)]<br>
 <span style="color:grey">Shaoxiong Ji, <span style="color:black">Wenqi Jiang,</span> Anwar Walid, Xue Li </span><br>
