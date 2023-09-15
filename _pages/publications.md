@@ -4,9 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-[(Google Scholar)](https://scholar.google.com/citations?user=0gT0jzkAAAAJ&hl=en&oi=sra) [(DBLP)](https://dblp.org/pid/68/7030.html)
+<!-- [(Google Scholar)](https://scholar.google.com/citations?user=0gT0jzkAAAAJ&hl=en&oi=sra) [(DBLP)](https://dblp.org/pid/68/7030.html) -->
 
-Co-first authorship is denoted by <b>*</b>
+<!-- Co-first authorship is denoted by <b>*</b> -->
 
 ## Conference Papers
 
