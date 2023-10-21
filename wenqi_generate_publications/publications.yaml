@@ -1,0 +1,77 @@
+# Please add entries in reverse time order (latest first), as this is the order to show per category
+# Mandatory: 
+#    title, authors, venue, year, tag (submission, conference, journal, workshop, poster, demo, talk, tutorial, book)
+# Optional:
+#    short_venue, black_short_venue, paper, code, talk, website, addtional
+
+Fanns:
+  title: Co-design Hardware and Algorithm for Vector Search
+  authors: Wenqi Jiang, Shigang Li, Yu Zhu, Johannes de Fine Licht, Zhenhao He, Runbin Shi, Cedric Renggli, Shuai Zhang, Theodoros Rekatsinas, Torsten Hoefler, and Gustavo Alonso 
+  venue: The International Conference for High Performance Computing, Networking, Storage and Analysis
+  year: 2023
+  tag: conference
+  
+  short_venue: SC'23
+  black_short_venue: true
+  paper: https://arxiv.org/pdf/2306.11182.pdf
+  code: https://github.com/WenqiJiang/SC-ANN-FPGA
+
+fpga_sigmod_tutorial23:
+  title: Data Processing with FPGAs on Modern Architectures 
+  authors: Wenqi Jiang, Dario Korolija, and Gustavo Alonso </span><br>
+  venue: International Conference on Management of Data
+  year: 2023
+  tag: tutorial
+
+  paper: https://dl.acm.org/doi/pdf/10.1145/3555041.3589410?casa_token=VwR_uiM-hLgAAAAA:sDCBaEV-PwKO07yGNkngnVlxywHnp61rkL4M7aFE8FlIC5RXgoBkAWR9zV-pYHiOdRchNpOOHIi2zAE
+  website: https://systems.ethz.ch/research/data-processing-on-modern-hardware/hacc/sigmod-23-tutorial--data-processing-on-fpgas-with-modern-archite.html
+
+
+dynafed:
+  title: Dynamic Sampling and Selective Masking for Communication-Efficient Federated Learning
+  authors: Shaoxiong Ji, Wenqi Jiang, Anwar Walid, Xue Li
+  venue: IEEE Intelligent Systems
+  year: 2022
+  tag: journal
+
+  paper: https://ieeexplore.ieee.org/abstract/document/9546691
+
+Fleetrec:
+  title: 'FleetRec: Large-Scale Recommendation Inference on Hybrid GPU-FPGA Clusters'
+  authors: Wenqi Jiang*, Zhenhao He, Shuai Zhang, Kai Zeng, Liang Feng, Jiansong Zhang, Tongxuan Liu, Yong Li, Jingren Zhou, Ce Zhang, and Gustavo Alonso
+  venue: Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining
+  year: 2021
+  tag: conference
+
+  short_venue: KDD'21
+  black_short_venue: true
+  paper: https://dl.acm.org/doi/abs/10.1145/3447548.3467139?casa_token=KETIiL8HG6oAAAAA:rOygoffuHx-V_HjsNReM1ErnbH1AsOt6EJgp8odg7fUJHWhFb1c82hY0D4U8PoZf7G9TOP8QMToG2A
+  talk: https://www.youtube.com/watch?v=7LL-6jPR-l4&t=2s
+  code: https://github.com/fpgasystems/GPU-FPGA-Recommendation-System
+
+distriRec:
+  title: Distributed Recommendation Inference on FPGA Clusters
+  authors: Yu Zhu, Zhenhao He, Wenqi Jiang, Kai Zeng, Jingren Zhou, and Gustavo Alonso 
+  venue: 31th International Conference on Field-Programmable Logic and Applications
+  year: 2021
+  tag: conference
+
+  short_venue: FPL'21
+  black_short_venue: false
+  paper: https://ieeexplore.ieee.org/abstract/document/9556456?casa_token=i6-KNe_mgqQAAAAA:XVVQqTyccq7JC8hKFzoVbkwvpdTm544dKUPoEJEa13erbeNJc0WyqkLmgwIwscVQ8nQcYGx15JI
+  code: https://github.com/fpgasystems/Distributed_Recommendation_Inference_on_FPGA_Clusters
+
+MicroRec: 
+  title: 'MicroRec: Efficient Recommendation Inference by Hardware and Data Structure Solutions'
+  authors: Wenqi Jiang, Zhenhao He, Shuai Zhang, Thomas B. Preußer, Kai Zeng, Liang Feng, Jiansong Zhang, Tongxuan Liu, Yong Li, Jingren Zhou, Ce Zhang, and Gustavo Alonso
+  venue: 4th Conference on Machine Learning and Systems
+  year: 2021
+  tag: conference
+
+  short_venue: MLSys'21
+  black_short_venue: true
+  paper: https://proceedings.mlsys.org/paper_files/paper/2021/hash/9e9a5486cb2f8e44d5b5fedd2a9e5fcd-Abstract.html
+  talk: https://www.youtube.com/watch?v=SJ0ze3p0GzU
+  code: https://github.com/fpgasystems/FPGA-Recommendation-Accelerator
+
+

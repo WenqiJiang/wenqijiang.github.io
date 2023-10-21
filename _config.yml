@@ -127,6 +127,7 @@ include:
   - _pages
   - files
 exclude:
+  - "wenqi_generate_publications"
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

@@ -6,6 +6,56 @@
 * Add contact email to side bar
   * seems in _includes/author-profile.html
 
+# Install Environment
+
+Refer to: https://github.com/academicpages/academicpages.github.io
+
+```
+brew update-reset
+brew install ruby-build
+
+gem install bundler
+gem install jekyll
+# install nodejs: https://nodejs.org/en/download
+```
+
+
+
+use rbenv to create env: https://antran.app/2021/m1_mac_part2/ 
+
+User the command from here that could actually install ruby on M1/M2 (although sad x86 in the command): https://github.com/rbenv/ruby-build/discussions/2125 
+
+```
+CFLAGS="-Wno-error=implicit-function-declaration" RUBY_CONFIGURE_OPTS='--with-readline-dir=/usr/local/opt/readline/' arch -x86_64 rbenv install 2.7.6
+rbenv global 2.7.6
+```
+
+in bash.rc:
+
+```
+export PATH="$HOME/.rbenv/bin:$PATH"                                            eval "$(rbenv init -)"  
+```
+
+check version:
+
+```
+ruby -v
+```
+
+(Don't use) I tried to use docker for all these build, used rvm but it seems I cannot install that on MacOS
+
+```sh
+# install rvm: https://rvm.io/rvm/install
+
+# install ruby
+rvm install ruby-2.7.5
+
+# How to use it: https://stackoverflow.com/questions/53270401/why-is-my-jekyll-command-not-working-anymore
+rvm --default use ruby-2.7.5
+```
+
+
+
 # ETH Webpage
 
 ETH CS系的挂载主页：
@@ -72,6 +122,17 @@ bundle clean --force
 bundle exec jekyll liveserve
 
 # localhost:4000 in browser
+```
+
+
+
+## Latest way to update publication page
+
+```
+cd wenqi_generate_publications
+### Update publications.yaml ###
+python generate_publications.py 
+cp publications.md ../_pages/
 ```
 
 
