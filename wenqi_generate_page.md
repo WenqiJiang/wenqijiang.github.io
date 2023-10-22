@@ -124,7 +124,7 @@ bundle exec jekyll liveserve
 # localhost:4000 in browser
 ```
 
-
+Once pages are changes during serve, error messages may appear `ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:20 ` but this doesn't matter.
 
 ## Latest way to update publication page
 

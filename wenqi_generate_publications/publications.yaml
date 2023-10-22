@@ -1,16 +1,52 @@
 # Please add entries in reverse time order (latest first), as this is the order to show per category
 # Mandatory: 
-#    title, authors, venue, year, tag (submission, conference, journal, workshop, poster, demo, talk, tutorial, book)
+#    title, authors, year, tag (submission, conference, journal, workshop, poster, demo, talk, tutorial, book)
 # Optional:
-#    short_venue, black_short_venue, paper, code, talk, website, addtional
+#    venue, short_venue, black_short_venue, paper, code, talk, website, addtional
+
+chameleon: 
+  title: 'Chameleon: a Heterogeneous and Disaggregated Accelerator System for Retrieval-Augmented Language Models'
+  authors: Wenqi Jiang, Marco Zeller, Roger Waleffe, Torsten Hoefler, Gustavo Alonso
+  tag: submission
+  year: 2023 
+
+  paper: https://arxiv.org/abs/2310.09949
+
+swiftspatial: 
+  title: 'SwiftSpatial: Spatial Joins on Modern Hardware'
+  authors: Wenqi Jiang, Martin Parvanov, Gustavo Alonso
+  tag: submission
+  year: 2023
+
+  paper: https://arxiv.org/pdf/2309.16520.pdf
+
+chameleon_h2rc:
+  title: 'Chameleon: a Disaggregated CPU, GPU, and FPGA System for Retrieval-Augmented Language Models'
+  authors: Wenqi Jiang, Gustavo Alonso
+  tag: workshop
+  year: 2023
+
+  venue: Ninth International Workshop on Heterogeneous High-performance Reconfigurable Computing
+  short_venue: H2RC @ SC'23
+  black_short_venue: false
+
+switchspace:
+  title: Data-Informed Geometric Space Selection
+  authors: Shuai Zhang, Wenqi Jiang
+  year: 2023
+  tag: conference
+
+  venue: Thirty-seventh Conference on Neural Information Processing Systems
+  short_venue: NeurIPS'23
+  black_short_venue: true
 
 Fanns:
   title: Co-design Hardware and Algorithm for Vector Search
   authors: Wenqi Jiang, Shigang Li, Yu Zhu, Johannes de Fine Licht, Zhenhao He, Runbin Shi, Cedric Renggli, Shuai Zhang, Theodoros Rekatsinas, Torsten Hoefler, and Gustavo Alonso 
-  venue: The International Conference for High Performance Computing, Networking, Storage and Analysis
   year: 2023
   tag: conference
   
+  venue: The International Conference for High Performance Computing, Networking, Storage and Analysis
   short_venue: SC'23
   black_short_venue: true
   paper: https://arxiv.org/pdf/2306.11182.pdf
@@ -18,11 +54,13 @@ Fanns:
 
 fpga_sigmod_tutorial23:
   title: Data Processing with FPGAs on Modern Architectures 
-  authors: Wenqi Jiang, Dario Korolija, and Gustavo Alonso </span><br>
-  venue: International Conference on Management of Data
+  authors: Wenqi Jiang, Dario Korolija, and Gustavo Alonso
   year: 2023
   tag: tutorial
 
+  venue: International Conference on Management of Data
+  short_venue: SIGMOD'23
+  black_short_venue: false
   paper: https://dl.acm.org/doi/pdf/10.1145/3555041.3589410?casa_token=VwR_uiM-hLgAAAAA:sDCBaEV-PwKO07yGNkngnVlxywHnp61rkL4M7aFE8FlIC5RXgoBkAWR9zV-pYHiOdRchNpOOHIi2zAE
   website: https://systems.ethz.ch/research/data-processing-on-modern-hardware/hacc/sigmod-23-tutorial--data-processing-on-fpgas-with-modern-archite.html
 
@@ -30,19 +68,19 @@ fpga_sigmod_tutorial23:
 dynafed:
   title: Dynamic Sampling and Selective Masking for Communication-Efficient Federated Learning
   authors: Shaoxiong Ji, Wenqi Jiang, Anwar Walid, Xue Li
-  venue: IEEE Intelligent Systems
   year: 2022
   tag: journal
 
+  venue: IEEE Intelligent Systems
   paper: https://ieeexplore.ieee.org/abstract/document/9546691
 
 Fleetrec:
   title: 'FleetRec: Large-Scale Recommendation Inference on Hybrid GPU-FPGA Clusters'
-  authors: Wenqi Jiang*, Zhenhao He, Shuai Zhang, Kai Zeng, Liang Feng, Jiansong Zhang, Tongxuan Liu, Yong Li, Jingren Zhou, Ce Zhang, and Gustavo Alonso
-  venue: Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining
+  authors: Wenqi Jiang*, Zhenhao He*, Shuai Zhang, Kai Zeng, Liang Feng, Jiansong Zhang, Tongxuan Liu, Yong Li, Jingren Zhou, Ce Zhang, and Gustavo Alonso
   year: 2021
   tag: conference
 
+  venue: Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining
   short_venue: KDD'21
   black_short_venue: true
   paper: https://dl.acm.org/doi/abs/10.1145/3447548.3467139?casa_token=KETIiL8HG6oAAAAA:rOygoffuHx-V_HjsNReM1ErnbH1AsOt6EJgp8odg7fUJHWhFb1c82hY0D4U8PoZf7G9TOP8QMToG2A
@@ -52,10 +90,10 @@ Fleetrec:
 distriRec:
   title: Distributed Recommendation Inference on FPGA Clusters
   authors: Yu Zhu, Zhenhao He, Wenqi Jiang, Kai Zeng, Jingren Zhou, and Gustavo Alonso 
-  venue: 31th International Conference on Field-Programmable Logic and Applications
   year: 2021
   tag: conference
 
+  venue: 31th International Conference on Field-Programmable Logic and Applications
   short_venue: FPL'21
   black_short_venue: false
   paper: https://ieeexplore.ieee.org/abstract/document/9556456?casa_token=i6-KNe_mgqQAAAAA:XVVQqTyccq7JC8hKFzoVbkwvpdTm544dKUPoEJEa13erbeNJc0WyqkLmgwIwscVQ8nQcYGx15JI

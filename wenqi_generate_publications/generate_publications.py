@@ -10,9 +10,7 @@ header = '''---
 title: ""
 permalink: /publications/
 author_profile: true
----
-
-'''
+---'''
 
 def tag_to_header(tag):
 	if tag == 'submission':
@@ -51,7 +49,7 @@ def get_pub_str(pub):
 	pub_str = '\n\n'
 
 	# first line: title
-	pub_str += pub['title']
+	pub_str += '<span style="color:black">' + pub['title'] + '</span>'
 	if 'paper' in pub:
 		pub_str += ' [[Paper]](%s)' % pub['paper']
 	if 'talk' in pub:
@@ -65,19 +63,20 @@ def get_pub_str(pub):
 	# second line: author
 	pub_str += '<span style="color:grey">'
 	authors = pub['authors']
-	authors = authors.replace('Wenqi Jiang', '<span style="color:black">Wenqi Jiang</span>')
+	authors = authors.replace('Wenqi Jiang', '<span style="color:rgb(50,50,50)">Wenqi Jiang</span>')
+	authors = authors.replace('Wenqi Jiang', '<b>Wenqi Jiang</b>')
 	pub_str += authors
 	pub_str += '</span><br>\n'
 
-	# third line: venue
-	if 'short_venue' in pub:
-		if 'black_short_venue' in pub:
-			pub_str += '<b>' + pub['short_venue'] + '</b>: '
-		else:
-			pub_str += pub['short_venue'] + ': '
-		pub_str += pub['short_venue']
-	pub_str += pub['venue']
-	pub_str += '<br>\n'
+	# third line: optional venue
+	if 'venue' in pub:
+		if 'short_venue' in pub:
+			if 'black_short_venue' in pub and pub['black_short_venue']:
+				pub_str += '<b>' + pub['short_venue'] + '</b>: '
+			else:
+				pub_str += pub['short_venue'] + ': '
+		pub_str += pub['venue']
+		pub_str += '<br>\n'
 
 	return pub_str
 

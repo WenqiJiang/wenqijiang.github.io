@@ -10,11 +10,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student at ETH Zurich advised by Gustavo Alonso and Torsten Hoefler. Before joining the Systems Group at ETH Zurich in 2021, I received my M.S. degree from Columbia University and B.Eng. from Huazhong University of Science and Technology, both with honor.
+Hi there! My name is Wenqi Jiang. I am currently a third-year PhD student at ETH Zurich, where I am fortunate to be advised by [Gustavo Alonso](https://people.inf.ethz.ch/alonso/) and [Torsten Hoefler](https://htor.inf.ethz.ch/). 
+Prior to joining the [Systems Group at ETH Zurich](https://systems.ethz.ch/) in 2021, I received my Master degree from Columbia University and my Bachelor degree from Huazhong University of Science and Technology, both with honors.
 
-My research interests include  data management, computer architecture, and computer systems. Recently, I have been working on building efficient large-scale vector retrieval (approximate nearest neighbor search) systems, recommender systems, and spatial data processing systems, all based on heterogeneous hardware such as FPGAs and GPUs. 
 
-Feel free to check out my [CV](https://wenqijiang.github.io/files/2023.6.17_Wenqi_Jiang_CV.pdf) to know more about me.
+My research interests lies in the intersection of  data management, computer architecture, and computer systems. 
+Specifically, I am interested in designing efficient data systems in an era that Moore's Law no longer exists. This involves the development of cross-stack solutions that integrate algorithms, software systems, and underlying hardware to enhance overall system performance and efficiency. 
+Recently, I have built Post-Moore data systems for large language models, vector retrieval via approximate nearest neighbor search, recommender systems, and spatial data processing.
+
+[\[CV\]](https://wenqijiang.github.io/files/2023.6.17_Wenqi_Jiang_CV.pdf) [\[Google Scholar\]](https://scholar.google.com/citations?user=0gT0jzkAAAAJ&hl=en&oi=ao)
+
+<!-- Feel free to check out my [CV](https://wenqijiang.github.io/files/2023.6.17_Wenqi_Jiang_CV.pdf) to know more about me. -->
 
 <!-- My research is centered around improving and replacing the state-of-the-art software-based systems by emerging heterogeneous hardware. To be more specific, I am exploring how reconfigurable hardware (FPGAs) can be applied and deployed in data centers efficiently. Such research ranges from application-specific designs such as recommendation systems and information retrieval systems to infrastructure development such as distributed frameworks and virtualization on the cloud.  -->
 
