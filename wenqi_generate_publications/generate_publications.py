@@ -49,6 +49,12 @@ def get_pub_str(pub):
 	pub_str = '\n\n'
 
 	# first line: title
+	if 'short_venue' in pub:
+		if 'black_short_venue' in pub and pub['black_short_venue']:
+			pub_str += '[<b>' + pub['short_venue'] + '</b>] '
+		else:
+			pub_str += '[' + pub['short_venue'] + '] '
+
 	pub_str += '<span style="color:black">' + pub['title'] + '</span>'
 	if 'paper' in pub:
 		pub_str += ' [[Paper]](%s)' % pub['paper']
@@ -70,11 +76,11 @@ def get_pub_str(pub):
 
 	# third line: optional venue
 	if 'venue' in pub:
-		if 'short_venue' in pub:
-			if 'black_short_venue' in pub and pub['black_short_venue']:
-				pub_str += '<b>' + pub['short_venue'] + '</b>: '
-			else:
-				pub_str += pub['short_venue'] + ': '
+		# if 'short_venue' in pub:
+		# 	if 'black_short_venue' in pub and pub['black_short_venue']:
+		# 		pub_str += '<b>' + pub['short_venue'] + '</b>: '
+		# 	else:
+		# 		pub_str += pub['short_venue'] + ': '
 		pub_str += pub['venue']
 		pub_str += '<br>\n'
 
