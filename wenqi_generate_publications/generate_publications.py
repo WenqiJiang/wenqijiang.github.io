@@ -10,7 +10,8 @@ header = '''---
 title: ""
 permalink: /publications/
 author_profile: true
----'''
+---
+'''
 
 def tag_to_header(tag):
 	if tag == 'submission':
@@ -71,6 +72,7 @@ def get_pub_str(pub):
 	authors = pub['authors']
 	authors = authors.replace('Wenqi Jiang', '<span style="color:rgb(50,50,50)">Wenqi Jiang</span>')
 	authors = authors.replace('Wenqi Jiang', '<b>Wenqi Jiang</b>')
+	authors = authors.replace('*', '\*')
 	pub_str += authors
 	pub_str += '</span><br>\n'
 
@@ -95,7 +97,7 @@ if __name__ == '__main__':
 
 	for tag in tag_order:
 		if len(classified_pubs[tag]) > 0:
-			out_str += '\n' + tag_to_header(tag) + '\n'
+			out_str += tag_to_header(tag) + '\n'
 			for pub in classified_pubs[tag]:
 				out_str += get_pub_str(pub) + '\n\n'
 	

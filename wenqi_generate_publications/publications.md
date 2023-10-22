@@ -16,7 +16,6 @@ author_profile: true
 <span style="color:grey"><span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>, Martin Parvanov, Gustavo Alonso</span><br>
 
 
-
 ## Conference Papers
 
 
@@ -35,7 +34,7 @@ The International Conference for High Performance Computing, Networking, Storage
 
 
 [<b>KDD'21</b>] <span style="color:black">FleetRec: Large-Scale Recommendation Inference on Hybrid GPU-FPGA Clusters</span> [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447548.3467139?casa_token=KETIiL8HG6oAAAAA:rOygoffuHx-V_HjsNReM1ErnbH1AsOt6EJgp8odg7fUJHWhFb1c82hY0D4U8PoZf7G9TOP8QMToG2A) [[Talk]](https://www.youtube.com/watch?v=7LL-6jPR-l4&t=2s) [[Code]](https://github.com/fpgasystems/GPU-FPGA-Recommendation-System)<br>
-<span style="color:grey"><span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>*, Zhenhao He*, Shuai Zhang, Kai Zeng, Liang Feng, Jiansong Zhang, Tongxuan Liu, Yong Li, Jingren Zhou, Ce Zhang, and Gustavo Alonso</span><br>
+<span style="color:grey"><span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>\*, Zhenhao He\*, Shuai Zhang, Kai Zeng, Liang Feng, Jiansong Zhang, Tongxuan Liu, Yong Li, Jingren Zhou, Ce Zhang, and Gustavo Alonso</span><br>
 Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining<br>
 
 
@@ -53,7 +52,6 @@ Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discove
 4th Conference on Machine Learning and Systems<br>
 
 
-
 ## Journal Papers
 
 
@@ -62,14 +60,12 @@ Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discove
 IEEE Intelligent Systems<br>
 
 
-
 ## Workshop Papers
 
 
 [H2RC @ SC'23] <span style="color:black">Chameleon: a Disaggregated CPU, GPU, and FPGA System for Retrieval-Augmented Language Models</span><br>
 <span style="color:grey"><span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>, Gustavo Alonso</span><br>
 Ninth International Workshop on Heterogeneous High-performance Reconfigurable Computing<br>
-
 
 
 ## Tutorials
