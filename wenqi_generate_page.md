@@ -112,6 +112,7 @@ Run bundle install to install ruby dependencies. If you get errors, delete Gemfi
 Run bundle exec jekyll liveserve to generate the HTML and serve it from localhost:4000 the local server will automatically rebuild and refresh the pages on change.
 
 ```bash
+source ~/.bashrc
 # everytime generate HTML
 bundle clean --force
 # rm _site/*html
