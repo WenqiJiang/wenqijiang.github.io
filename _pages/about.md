@@ -16,9 +16,10 @@ Prior to joining the [Systems Group at ETH Zurich](https://systems.ethz.ch/) in 
 
 My research interests lie in the intersection of data management, computer architecture, and computer systems. 
 Specifically, I am interested in designing efficient data systems in an era when Moore's Law no longer exists. This involves the development of cross-stack solutions that integrate algorithms, software systems, and underlying hardware to enhance overall system performance and efficiency. 
-Recently, I have built Post-Moore data systems for large language models, vector retrieval via approximate nearest neighbor search, recommender systems, and spatial data processing.
+Recently, I have built Post-Moore data systems for vector search, recommender systems, and spatial data processing.
+<!-- Recently, I have built Post-Moore data systems for large language models, vector retrieval via approximate nearest neighbor search, recommender systems, and spatial data processing. -->
 
-[\[CV\]](https://wenqijiang.github.io/files/2024.4.9_Wenqi_Jiang_CV.pdf) [\[Google Scholar\]](https://scholar.google.com/citations?user=0gT0jzkAAAAJ&hl=en&oi=ao)
+[\[CV\]](https://wenqijiang.github.io/files/2024.6.10_Wenqi_Jiang_CV.pdf) [\[Google Scholar\]](https://scholar.google.com/citations?user=0gT0jzkAAAAJ&hl=en&oi=ao)
 
 <!-- Feel free to check out my [CV](https://wenqijiang.github.io/files/2023.6.17_Wenqi_Jiang_CV.pdf) to know more about me. -->
 
