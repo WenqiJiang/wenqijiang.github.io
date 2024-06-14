@@ -5,6 +5,23 @@
 #    venue, short_venue, black_short_venue, paper, code, talk, website, addtional
 
 
+chameleon: 
+  title: 'Chameleon: a Heterogeneous and Disaggregated Accelerator System for Retrieval-Augmented Language Models'
+  authors: Wenqi Jiang, Marco Zeller, Roger Waleffe, Torsten Hoefler, Gustavo Alonso
+  tag: conference
+  year: 2025
+
+  venue: Proceedings of the VLDB Endowment (Under Revision)
+  short_venue: VLDB'25
+  black_short_venue: true
+  paper: https://arxiv.org/abs/2310.09949
+
+falcon: 
+  title: 'Accelerating Graph-based Vector Search via Delayed-Synchronization Traversal'
+  authors: Wenqi Jiang, Hang Hu, Torsten Hoefler, Gustavo Alonso
+  tag: submission
+  year: 2024 
+
 piperag: 
   title: 'PipeRAG: fast retrieval-augmented generation via algorithm-system co-design'
   authors: Wenqi Jiang, Shuai Zhang, Boran Han, Jie Wang, Bernie Wang, Tim Kraska
@@ -23,12 +40,6 @@ msmacroweb:
   short_venue: WWW'24
   black_short_venue: true
 
-chameleon: 
-  title: 'Chameleon: a Heterogeneous and Disaggregated Accelerator System for Retrieval-Augmented Language Models'
-  authors: Wenqi Jiang, Marco Zeller, Roger Waleffe, Torsten Hoefler, Gustavo Alonso
-  tag: submission
-  year: 2023 
-
   paper: https://arxiv.org/abs/2310.09949
 
 swiftspatial: 
@@ -39,15 +50,15 @@ swiftspatial:
 
   paper: https://arxiv.org/pdf/2309.16520.pdf
 
-chameleon_h2rc:
-  title: 'Chameleon: a Disaggregated CPU, GPU, and FPGA System for Retrieval-Augmented Language Models'
-  authors: Wenqi Jiang, Gustavo Alonso
-  tag: workshop
-  year: 2023
+# chameleon_h2rc:
+#   title: 'Chameleon: a Disaggregated CPU, GPU, and FPGA System for Retrieval-Augmented Language Models'
+#   authors: Wenqi Jiang, Gustavo Alonso
+#   tag: workshop
+#   year: 2023
 
-  venue: Ninth International Workshop on Heterogeneous High-performance Reconfigurable Computing
-  short_venue: H2RC @ SC'23
-  black_short_venue: false
+#   venue: Ninth International Workshop on Heterogeneous High-performance Reconfigurable Computing
+#   short_venue: H2RC @ SC'23
+#   black_short_venue: false
 
 switchspace:
   title: Data-Informed Geometric Space Selection
@@ -58,6 +69,7 @@ switchspace:
   venue: Thirty-seventh Conference on Neural Information Processing Systems
   short_venue: NeurIPS'23
   black_short_venue: true
+  paper: https://proceedings.neurips.cc/paper_files/paper/2023/file/486ff0b164cf92b0255fe39863bcf99e-Paper-Conference.pdf
 
 Fanns:
   title: Co-design Hardware and Algorithm for Vector Search

@@ -134,6 +134,9 @@ cd wenqi_generate_publications
 ### Update publications.yaml ###
 python generate_publications.py 
 cp publications.md ../_pages/
+
+# Latex publication for CV
+python latex_pub_generation.py
 ```
 
 

@@ -6,14 +6,14 @@ author_profile: true
 ## Under Submission
 
 
+<span style="color:black">Accelerating Graph-based Vector Search via Delayed-Synchronization Traversal</span><br>
+<span style="color:grey"><span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>, Hang Hu, Torsten Hoefler, Gustavo Alonso</span><br>
+
+
+
+
 <span style="color:black">PipeRAG: fast retrieval-augmented generation via algorithm-system co-design</span> [[Paper]](https://arxiv.org/abs/2403.05676)<br>
 <span style="color:grey"><span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>, Shuai Zhang, Boran Han, Jie Wang, Bernie Wang, Tim Kraska</span><br>
-
-
-
-
-<span style="color:black">Chameleon: a Heterogeneous and Disaggregated Accelerator System for Retrieval-Augmented Language Models</span> [[Paper]](https://arxiv.org/abs/2310.09949)<br>
-<span style="color:grey"><span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>, Marco Zeller, Roger Waleffe, Torsten Hoefler, Gustavo Alonso</span><br>
 
 
 
@@ -25,14 +25,21 @@ author_profile: true
 ## Conference Papers
 
 
-[<b>WWW'24</b>] <span style="color:black">MS MARCO Web Search: A Large-scale Information-rich Web Dataset with Millions of Real Click Labels</span><br>
+[<b>VLDB'25</b>] <span style="color:black">Chameleon: a Heterogeneous and Disaggregated Accelerator System for Retrieval-Augmented Language Models</span> [[Paper]](https://arxiv.org/abs/2310.09949)<br>
+<span style="color:grey"><span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>, Marco Zeller, Roger Waleffe, Torsten Hoefler, Gustavo Alonso</span><br>
+Proceedings of the VLDB Endowment (Under Revision)<br>
+
+
+
+
+[<b>WWW'24</b>] <span style="color:black">MS MARCO Web Search: A Large-scale Information-rich Web Dataset with Millions of Real Click Labels</span> [[Paper]](https://arxiv.org/abs/2310.09949)<br>
 <span style="color:grey">Qi Chen, Xiubo Geng, Corby Rosset, Carolyn Buractaon, Jingwen Lu, Tao Shen, Kun Zhou, Chenyan Xiong, Yeyun Gong, Paul Bennett, Nick Craswell, Xing Xie, Fan Yang, Bryan Tower, Nikhil Rao, Anlei Dong, <span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>, Zheng Liu, Mingqin Li, Chuanjie Liu, Zengzhong Li, Rangan Majumder, Jennifer Neville, Andy Oakley, Knut Magne Risvik, Harsha Vardhan Simhadri, Manik Varma, Yujing Wang, Linjun Yang, Mao Yang, Ce Zhang</span><br>
 International World Wide Web Conference<br>
 
 
 
 
-[<b>NeurIPS'23</b>] <span style="color:black">Data-Informed Geometric Space Selection</span><br>
+[<b>NeurIPS'23</b>] <span style="color:black">Data-Informed Geometric Space Selection</span> [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/486ff0b164cf92b0255fe39863bcf99e-Paper-Conference.pdf)<br>
 <span style="color:grey">Shuai Zhang, <span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span></span><br>
 Thirty-seventh Conference on Neural Information Processing Systems<br>
 
@@ -71,14 +78,6 @@ Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discove
 <span style="color:black">Dynamic Sampling and Selective Masking for Communication-Efficient Federated Learning</span> [[Paper]](https://ieeexplore.ieee.org/abstract/document/9546691)<br>
 <span style="color:grey">Shaoxiong Ji, <span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>, Anwar Walid, Xue Li</span><br>
 IEEE Intelligent Systems<br>
-
-
-## Workshop Papers
-
-
-[H2RC @ SC'23] <span style="color:black">Chameleon: a Disaggregated CPU, GPU, and FPGA System for Retrieval-Augmented Language Models</span><br>
-<span style="color:grey"><span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>, Gustavo Alonso</span><br>
-Ninth International Workshop on Heterogeneous High-performance Reconfigurable Computing<br>
 
 
 ## Tutorials

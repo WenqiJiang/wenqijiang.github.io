@@ -35,6 +35,9 @@ def classify_publications(all_pubs):
 		if pub['tag'] not in classified_pubs:
 			classified_pubs[pub['tag']] = []
 		classified_pubs[pub['tag']].append(pub)
+	for tag in tag_order:
+		if len(classified_pubs[tag]) == 0:
+			del classified_pubs[tag]
 	return classified_pubs
 
 def get_pub_str(pub):
