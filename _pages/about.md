@@ -10,25 +10,38 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Wenqi Jiang. I am currently a fourth-year PhD student at ETH Zurich, where I am fortunate to be advised by [Gustavo Alonso](https://people.inf.ethz.ch/alonso/) and [Torsten Hoefler](https://htor.inf.ethz.ch/). 
-Prior to joining the [Systems Group at ETH Zurich](https://systems.ethz.ch/) in 2021, I received my Master degree from Columbia University and my Bachelor degree from Huazhong University of Science and Technology, both with honors. I was recognized as one of the ML and Systems Rising Stars and won the AMD HACC Outstanding Researcher Award.
+<!-- Hi! My name is Wenqi Jiang.  -->
+I am a fourth-year PhD student at [ETH Zurich](https://ethz.ch/), where I am fortunate to be advised by [Gustavo Alonso](https://people.inf.ethz.ch/alonso/) and [Torsten Hoefler](https://htor.inf.ethz.ch/). 
+Before joining the [Systems Group at ETH Zurich](https://systems.ethz.ch/), I earned my Master's degree from Columbia University and my Bachelor's degree from Huazhong University of Science and Technology, both with honors. I have been recognized as one of the ML and Systems Rising Stars and received the AMD HACC Outstanding Researcher Award.
+
+<!-- TODO: add links to those awards -->
+<!-- https://mlcommons.org/2024/06/2024-mlc-rising-stars/ -->
+<!-- https://www.amd-haccs.io/awards.html -->
 
 
-My research interests lie in the intersection of data management, computer architecture, and computer systems. 
-Specifically, I am interested in designing efficient data systems in an era when Moore's Law no longer exists. This involves the development of cross-stack solutions that integrate algorithms, software systems, and underlying hardware to enhance overall system performance and efficiency. 
+My research centers around developing efficient <b>vector data systems on modern hardware</b>, an essential topic in today's <b>systems for machine learning</b>.
+For example, retrieval-augmented generation (RAG) combines LLMs with external knowledge databases, incorporating context-specific knowledge via vector search during generation, so as to produce more reliable and up-to-date content.
+As Moore's Law fades, my work aims to enhance vector data system efficiency through cross-stack solutions that span data management, computer architecture, computer systems, and machine learning.
+My contributions include building specialized hardware accelerators, designing efficient system architectures, and inventing new algorithms for vector search and RAG.
+
+<!-- However, as Moore's Law fades, we can no longer rely on automatic performance gains from technology scaling.  -->
+<!-- Consequently,  -->
+
+
+<!-- In an era when Moore's Law no longer exists, improving data system efficiency often relies the development of cross-stack solutions that integrate algorithms, software systems, and underlying hardware.
 <!-- Recently, I have built Post-Moore data systems for vector search, recommender systems, and spatial data processing. -->
-Recently, I have built Post-Moore data systems for large language models, vector retrieval via approximate nearest neighbor search, recommender systems, and spatial data processing.
+<!-- Recently, I have built post-Moore data systems for large language models, vector databases, recommender systems, and spatial data processing. -->
 
-[\[CV\]](https://wenqijiang.github.io/files/2024.6.14_Wenqi_Jiang_CV.pdf) [\[Google Scholar\]](https://scholar.google.com/citations?user=0gT0jzkAAAAJ&hl=en&oi=ao)
+
+<!-- [![CV](/Users/wenqi/home/wenqi.github.io/images/cv-icon.png)](https://wenqijiang.github.io/files/2024.7.6_Wenqi_Jiang_CV.pdf) [![Google Scholar](https://wenqijiang.github.io/images/wenqi.png)](https://scholar.google.com/citations?user=0gT0jzkAAAAJ&hl=en&oi=ao) -->
+
+
+[<img src="https://wenqijiang.github.io/images/cv-icon.png" alt="CV" style="width: 30px; height: 30px;">](https://wenqijiang.github.io/files/2024.7.6_Wenqi_Jiang_CV.pdf)
+[<img src="https://wenqijiang.github.io/images/google-scholar-icon.png" alt="Google Scholar" style="width: 30px; height: 30px;">](https://scholar.google.com/citations?user=0gT0jzkAAAAJ&hl=en&oi=ao)
 
 <!-- Feel free to check out my [CV](https://wenqijiang.github.io/files/2023.6.17_Wenqi_Jiang_CV.pdf) to know more about me. -->
 
-<!-- My research is centered around improving and replacing the state-of-the-art software-based systems by emerging heterogeneous hardware. To be more specific, I am exploring how reconfigurable hardware (FPGAs) can be applied and deployed in data centers efficiently. Such research ranges from application-specific designs such as recommendation systems and information retrieval systems to infrastructure development such as distributed frameworks and virtualization on the cloud.  -->
-
-<!-- A data-driven personal website
-
-
-I am a 1st-year PhD student in the [Systems Group](https://systems.ethz.ch/) at ETH Zurich, where I am fortunate to be advised by [Prof. Gustavo Alonso](https://people.inf.ethz.ch/alonso/). Before joining ETH Zurich, I was a master student at Columbia Univerity, where I worked in the [System-Level Design Group](https://sld.cs.columbia.edu/) with [Prof. Luca Carloni](http://www.cs.columbia.edu/~luca/). 
+<!-- 
 
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.

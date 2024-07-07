@@ -7,7 +7,7 @@
 
 chameleon: 
   title: 'Chameleon: a Heterogeneous and Disaggregated Accelerator System for Retrieval-Augmented Language Models'
-  authors: Wenqi Jiang, Marco Zeller, Roger Waleffe, Torsten Hoefler, Gustavo Alonso
+  authors: Wenqi Jiang, Marco Zeller, Roger Waleffe, Torsten Hoefler, and Gustavo Alonso
   tag: conference
   year: 2025
 
@@ -18,13 +18,14 @@ chameleon:
 
 falcon: 
   title: 'Accelerating Graph-based Vector Search via Delayed-Synchronization Traversal'
-  authors: Wenqi Jiang, Hang Hu, Torsten Hoefler, Gustavo Alonso
+  authors: Wenqi Jiang, Hang Hu, Torsten Hoefler, and Gustavo Alonso
   tag: submission
   year: 2024 
+  paper: https://arxiv.org/abs/2406.12385
 
 piperag: 
   title: 'PipeRAG: fast retrieval-augmented generation via algorithm-system co-design'
-  authors: Wenqi Jiang, Shuai Zhang, Boran Han, Jie Wang, Bernie Wang, Tim Kraska
+  authors: Wenqi Jiang, Shuai Zhang, Boran Han, Jie Wang, Bernie Wang, and Tim Kraska
   tag: submission
   year: 2024 
 
@@ -32,7 +33,7 @@ piperag:
 
 msmacroweb:
   title: 'MS MARCO Web Search: A Large-scale Information-rich Web Dataset with Millions of Real Click Labels'
-  authors: Qi Chen, Xiubo Geng, Corby Rosset, Carolyn Buractaon, Jingwen Lu, Tao Shen, Kun Zhou, Chenyan Xiong, Yeyun Gong, Paul Bennett, Nick Craswell, Xing Xie, Fan Yang, Bryan Tower, Nikhil Rao, Anlei Dong, Wenqi Jiang, Zheng Liu, Mingqin Li, Chuanjie Liu, Zengzhong Li, Rangan Majumder, Jennifer Neville, Andy Oakley, Knut Magne Risvik, Harsha Vardhan Simhadri, Manik Varma, Yujing Wang, Linjun Yang, Mao Yang, Ce Zhang
+  authors: Qi Chen, Xiubo Geng, Corby Rosset, Carolyn Buractaon, Jingwen Lu, Tao Shen, Kun Zhou, Chenyan Xiong, Yeyun Gong, Paul Bennett, Nick Craswell, Xing Xie, Fan Yang, Bryan Tower, Nikhil Rao, Anlei Dong, Wenqi Jiang, Zheng Liu, Mingqin Li, Chuanjie Liu, Zengzhong Li, Rangan Majumder, Jennifer Neville, Andy Oakley, Knut Magne Risvik, Harsha Vardhan Simhadri, Manik Varma, Yujing Wang, Linjun Yang, Mao Yang, and Ce Zhang
   year: 2024
   tag: conference
 
@@ -44,7 +45,7 @@ msmacroweb:
 
 swiftspatial: 
   title: 'SwiftSpatial: Spatial Joins on Modern Hardware'
-  authors: Wenqi Jiang, Martin Parvanov, Gustavo Alonso
+  authors: Wenqi Jiang, Martin Parvanov, and Gustavo Alonso
   tag: submission
   year: 2023
 
@@ -62,7 +63,7 @@ swiftspatial:
 
 switchspace:
   title: Data-Informed Geometric Space Selection
-  authors: Shuai Zhang, Wenqi Jiang
+  authors: Shuai Zhang and Wenqi Jiang
   year: 2023
   tag: conference
 
@@ -98,7 +99,7 @@ fpga_sigmod_tutorial23:
 
 dynafed:
   title: Dynamic Sampling and Selective Masking for Communication-Efficient Federated Learning
-  authors: Shaoxiong Ji, Wenqi Jiang, Anwar Walid, Xue Li
+  authors: Shaoxiong Ji, Wenqi Jiang, Anwar Walid, and Xue Li
   year: 2022
   tag: journal
 

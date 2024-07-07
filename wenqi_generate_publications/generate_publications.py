@@ -47,16 +47,36 @@ def get_pub_str(pub):
 	Optional:
 		short_venue, black_short_venue, paper, code, talk, addtional
 	"""
+
+	color_short_venue = 'green' # green, blue
+	color_paper_title = 'black' # blue, black
+
 	pub_str = '\n\n'
 
 	# first line: title
 	if 'short_venue' in pub:
 		if 'black_short_venue' in pub and pub['black_short_venue']:
-			pub_str += '[<b>' + pub['short_venue'] + '</b>] '
+			if color_short_venue == 'green':
+				pub_str += '<span style="color:#009051"> [<b>' + pub['short_venue'] + '</b>]</span> '
+			elif color_short_venue == 'blue':
+				pub_str += '<span style="color:#071BA0"> [<b>' + pub['short_venue'] + '</b>]</span> '
+			else:
+				pub_str += '<span style="color:black"> [<b>' + pub['short_venue'] + '</b>]</span> '
 		else:
-			pub_str += '[' + pub['short_venue'] + '] '
+			# no color
+			pub_str += '<span style="color:black"> [' + pub['short_venue'] + ']</span> '
+			# with color
+			# pub_str += '<span style="color:#009051"> [' + pub['short_venue'] + ']</span> '
 
-	pub_str += '<span style="color:black">' + pub['title'] + '</span>'
+	if color_paper_title == 'blue':
+		# blue + bold
+		pub_str += '<span style="color:#071BA0"><b>' + pub['title'] + '</b></span> '
+	elif color_paper_title == 'black':
+		# black, normal font
+		pub_str += '<span style="color:black">' + pub['title'] + '</span>'
+	else:
+		# grey + bold
+		pub_str += '<span style="color:#555555"><b>' + pub['title'] + '</b></span> '
 	if 'paper' in pub:
 		pub_str += ' [[Paper]](%s)' % pub['paper']
 	if 'talk' in pub:
@@ -70,6 +90,9 @@ def get_pub_str(pub):
 	# second line: author
 	pub_str += '<span style="color:grey">'
 	authors = pub['authors']
+	# green 
+	# authors = authors.replace('Wenqi Jiang', '<span style="color:#005493">Wenqi Jiang</span>')
+	# grey
 	authors = authors.replace('Wenqi Jiang', '<span style="color:rgb(50,50,50)">Wenqi Jiang</span>')
 	authors = authors.replace('Wenqi Jiang', '<b>Wenqi Jiang</b>')
 	authors = authors.replace('*', '\*')
