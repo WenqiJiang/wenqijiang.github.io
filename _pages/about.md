@@ -36,8 +36,20 @@ My contributions include building specialized hardware accelerators, designing e
 <!-- [![CV](/Users/wenqi/home/wenqi.github.io/images/cv-icon.png)](https://wenqijiang.github.io/files/2024.7.6_Wenqi_Jiang_CV.pdf) [![Google Scholar](https://wenqijiang.github.io/images/wenqi.png)](https://scholar.google.com/citations?user=0gT0jzkAAAAJ&hl=en&oi=ao) -->
 
 
-[<img src="https://wenqijiang.github.io/images/cv-icon.png" alt="CV" style="width: 30px; height: 30px;">](https://wenqijiang.github.io/files/2024.7.6_Wenqi_Jiang_CV.pdf)
-[<img src="https://wenqijiang.github.io/images/google-scholar-icon.png" alt="Google Scholar" style="width: 30px; height: 30px;">](https://scholar.google.com/citations?user=0gT0jzkAAAAJ&hl=en&oi=ao)
+<!-- [<img src="https://wenqijiang.github.io/images/cv-icon.png" alt="CV" style="width: 30px; height: 30px;">](https://wenqijiang.github.io/files/2024.7.6_Wenqi_Jiang_CV.pdf) -->
+<!-- [<img src="https://wenqijiang.github.io/images/google-scholar-icon.png" alt="Google Scholar" style="width: 30px; height: 30px;">](https://scholar.google.com/citations?user=0gT0jzkAAAAJ&hl=en&oi=ao) -->
+
+<a href="https://wenqijiang.github.io/files/2024.7.6_Wenqi_Jiang_CV.pdf" title="Download CV" style="margin-right: 10px;">
+    <img src="https://wenqijiang.github.io/images/cv-icon.png" alt="CV Icon" style="vertical-align: middle; width: 25px; height: 25px;">
+    CV
+</a>
+<a href="https://scholar.google.com/citations?user=0gT0jzkAAAAJ&hl=en&oi=ao" title="scholar link">
+    <img src="https://wenqijiang.github.io/images/google-scholar-icon.png" alt="scholar Icon" style="vertical-align: middle; width: 25px; height: 25px;">
+    Scholar
+</a>
+
+
+
 
 <!-- Feel free to check out my [CV](https://wenqijiang.github.io/files/2023.6.17_Wenqi_Jiang_CV.pdf) to know more about me. -->
 
