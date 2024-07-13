@@ -19,7 +19,9 @@ Before joining the [Systems Group at ETH Zurich](https://systems.ethz.ch/), I ea
 <!-- https://www.amd-haccs.io/awards.html -->
 
 
-My research centers around developing efficient <b>vector data systems on modern hardware</b>, an essential topic in today's <b>systems for machine learning</b>.
+<!-- My research centers around developing efficient <b>vector data systems on modern hardware</b>, an essential topic in today's <b>systems for machine learning</b>. -->
+
+I work on <b>systems for machine learning</b>, with a focus on developing efficient <b>vector data systems on modern hardware</b>.
 For example, retrieval-augmented generation (RAG) combines LLMs with external knowledge databases, incorporating context-specific knowledge via vector search during generation, so as to produce more reliable and up-to-date content.
 As Moore's Law fades, my work aims to enhance vector data system efficiency through cross-stack solutions that span data management, computer architecture, computer systems, and machine learning.
 My contributions include building specialized hardware accelerators, designing efficient system architectures, and inventing new algorithms for vector search and RAG.
