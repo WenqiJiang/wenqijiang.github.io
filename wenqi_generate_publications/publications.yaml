@@ -11,7 +11,7 @@ chameleon:
   tag: conference
   year: 2025
 
-  venue: Proceedings of the VLDB Endowment (Under Revision)
+  venue: Proceedings of the VLDB Endowment
   short_venue: VLDB'25
   black_short_venue: true
   paper: https://arxiv.org/abs/2310.09949
