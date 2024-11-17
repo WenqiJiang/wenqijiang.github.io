@@ -4,6 +4,11 @@
 # Optional:
 #    venue, short_venue, black_short_venue, paper, code, talk, website, addtional
 
+flexrag: 
+  title: 'FlexRAG: Understanding and Optimizing Retrieval-Augmented Generation Serving'
+  authors: Wenqi Jiang, Suvinay Subramanian, Cat Graves, Gustavo Alonso, Amir Yazdanbakhsh, and Vidushi Dadu
+  tag: submission
+  year: 2025
 
 chameleon: 
   title: 'Chameleon: a Heterogeneous and Disaggregated Accelerator System for Retrieval-Augmented Language Models'
@@ -26,9 +31,12 @@ falcon:
 piperag: 
   title: 'PipeRAG: fast retrieval-augmented generation via algorithm-system co-design'
   authors: Wenqi Jiang, Shuai Zhang, Boran Han, Jie Wang, Bernie Wang, and Tim Kraska
-  tag: submission
-  year: 2024 
+  tag: conference
+  year: 2025
 
+  venue: Proceedings of the 31th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining
+  short_venue: KDD'25
+  black_short_venue: true
   paper: https://arxiv.org/abs/2403.05676
 
 msmacroweb:

@@ -6,14 +6,14 @@ author_profile: true
 ## Under Submission
 
 
+<span style="color:black">FlexRAG: Understanding and Optimizing Retrieval-Augmented Generation Serving</span><br>
+<span style="color:grey"><span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>, Suvinay Subramanian, Cat Graves, Gustavo Alonso, Amir Yazdanbakhsh, and Vidushi Dadu</span><br>
+
+
+
+
 <span style="color:black">Accelerating Graph-based Vector Search via Delayed-Synchronization Traversal</span> [[Paper]](https://arxiv.org/abs/2406.12385)<br>
 <span style="color:grey"><span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>, Hang Hu, Torsten Hoefler, and Gustavo Alonso</span><br>
-
-
-
-
-<span style="color:black">PipeRAG: fast retrieval-augmented generation via algorithm-system co-design</span> [[Paper]](https://arxiv.org/abs/2403.05676)<br>
-<span style="color:grey"><span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>, Shuai Zhang, Boran Han, Jie Wang, Bernie Wang, and Tim Kraska</span><br>
 
 
 
@@ -28,6 +28,13 @@ author_profile: true
 <span style="color:#009051"> [<b>VLDB'25</b>]</span> <span style="color:black">Chameleon: a Heterogeneous and Disaggregated Accelerator System for Retrieval-Augmented Language Models</span> [[Paper]](https://arxiv.org/abs/2310.09949)<br>
 <span style="color:grey"><span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>, Marco Zeller, Roger Waleffe, Torsten Hoefler, and Gustavo Alonso</span><br>
 Proceedings of the VLDB Endowment<br>
+
+
+
+
+<span style="color:#009051"> [<b>KDD'25</b>]</span> <span style="color:black">PipeRAG: fast retrieval-augmented generation via algorithm-system co-design</span> [[Paper]](https://arxiv.org/abs/2403.05676)<br>
+<span style="color:grey"><span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>, Shuai Zhang, Boran Han, Jie Wang, Bernie Wang, and Tim Kraska</span><br>
+Proceedings of the 31th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining<br>
 
 
 
