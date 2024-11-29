@@ -126,3 +126,5 @@ if __name__ == '__main__':
 	
 	with open('publications.md', 'w') as f:
 		f.write(out_str)
+
+	print("Move to _pages/publications.md: cp publications.md ../_pages/")

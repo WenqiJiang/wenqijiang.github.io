@@ -5,7 +5,7 @@
 #    venue, short_venue, black_short_venue, paper, code, talk, website, addtional
 
 flexrag: 
-  title: 'FlexRAG: Understanding and Optimizing Retrieval-Augmented Generation Serving'
+  title: 'RAGO: Systematic Performance Optimization for Retrieval-Augmented Generation Serving'
   authors: Wenqi Jiang, Suvinay Subramanian, Cat Graves, Gustavo Alonso, Amir Yazdanbakhsh, and Vidushi Dadu
   tag: submission
   year: 2025
@@ -20,6 +20,18 @@ chameleon:
   short_venue: VLDB'25
   black_short_venue: true
   paper: https://arxiv.org/abs/2310.09949
+
+
+swiftspatial: 
+  title: 'SwiftSpatial: Spatial Joins on Modern Hardware'
+  authors: Wenqi Jiang, Martin Parvanov, and Gustavo Alonso
+  tag: conference
+  year: 2025
+
+  venue: International Conference on Management of Data (Conditionally Accepted)
+  short_venue: SIGMOD'25
+  black_short_venue: true
+  paper: https://arxiv.org/pdf/2309.16520.pdf
 
 falcon: 
   title: 'Accelerating Graph-based Vector Search via Delayed-Synchronization Traversal'
@@ -50,14 +62,6 @@ msmacroweb:
   black_short_venue: true
 
   paper: https://arxiv.org/abs/2310.09949
-
-swiftspatial: 
-  title: 'SwiftSpatial: Spatial Joins on Modern Hardware'
-  authors: Wenqi Jiang, Martin Parvanov, and Gustavo Alonso
-  tag: submission
-  year: 2023
-
-  paper: https://arxiv.org/pdf/2309.16520.pdf
 
 # chameleon_h2rc:
 #   title: 'Chameleon: a Disaggregated CPU, GPU, and FPGA System for Retrieval-Augmented Language Models'
