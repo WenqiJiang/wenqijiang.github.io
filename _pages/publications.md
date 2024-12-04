@@ -6,7 +6,7 @@ author_profile: true
 ## Under Submission
 
 
-<span style="color:black">RAGO: Systematic Performance Optimization for Retrieval-Augmented Generation Serving</span><br>
+<span style="color:black">RAGO: Systematic Performance Optimization for Retrieval-Augmented Generation Serving</span> [[Paper]](https://openreview.net/forum?id=BztVYY2jp9)<br>
 <span style="color:grey"><span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>, Suvinay Subramanian, Cat Graves, Gustavo Alonso, Amir Yazdanbakhsh, and Vidushi Dadu</span><br>
 
 
