@@ -11,7 +11,7 @@ redirect_from:
 ---
 
 <!-- Hi! My name is Wenqi Jiang.  -->
-I am a fourth-year PhD student at [ETH Zurich](https://ethz.ch/), where I am fortunate to be advised by [Gustavo Alonso](https://people.inf.ethz.ch/alonso/) and [Torsten Hoefler](https://htor.inf.ethz.ch/). 
+I am a fifth-year PhD student at [ETH Zurich](https://ethz.ch/), where I am fortunate to be advised by [Gustavo Alonso](https://people.inf.ethz.ch/alonso/) and [Torsten Hoefler](https://htor.inf.ethz.ch/). 
 Before joining the [Systems Group at ETH Zurich](https://systems.ethz.ch/), I earned my Master's degree from Columbia University and my Bachelor's degree from Huazhong University of Science and Technology, both with honors. I have been recognized as one of the ML and Systems Rising Stars and received the AMD HACC Outstanding Researcher Award.
 
 <!-- TODO: add links to those awards -->
@@ -21,10 +21,7 @@ Before joining the [Systems Group at ETH Zurich](https://systems.ethz.ch/), I ea
 
 <!-- My research centers around developing efficient <b>vector data systems on modern hardware</b>, an essential topic in today's <b>systems for machine learning</b>. -->
 
-I work on <b>systems for machine learning</b>, with a focus on developing efficient <b>vector data systems on modern hardware</b>.
-For example, retrieval-augmented generation (RAG) combines LLMs with external knowledge databases, incorporating context-specific knowledge via vector search during generation, so as to produce more reliable and up-to-date content.
-As Moore's Law fades, my work aims to enhance vector data system efficiency through cross-stack solutions that span data management, computer architecture, computer systems, and machine learning.
-My contributions include building specialized hardware accelerators, designing efficient system architectures, and inventing new algorithms for vector search and RAG.
+I work on <b>systems for machine learning</b>, with research spanning the boundaries of data management, computer systems, and computer architecture. Rather than focusing on a single layer of the stack, I work across algorithms, systems, and hardware, because the increasing complexity of future machine learning (ML) systems necessitates cross-stack efforts. My research has pioneered several important topics in machine learning systems, including retrieval-augmented generation (RAG), vector search, and recommender systems.
 
 <!-- However, as Moore's Law fades, we can no longer rely on automatic performance gains from technology scaling.  -->
 <!-- Consequently,  -->
