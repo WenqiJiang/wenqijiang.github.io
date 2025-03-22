@@ -6,18 +6,18 @@ author_profile: true
 ## Under Submission
 
 
-<!-- <span style="color:black">Systematic Performance Optimization for Retrieval-Augmented Generation Serving</span> <br>
-<span style="color:grey"><span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span> et al.</span><br> -->
-
-<!-- <span style="color:black">Systematic Performance Optimization for Retrieval-Augmented Generation Serving</span> [[Paper]](https://openreview.net/forum?id=BztVYY2jp9)<br>
-<span style="color:grey"><span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>, Suvinay Subramanian, Cat Graves, Gustavo Alonso, Amir Yazdanbakhsh, and Vidushi Dadu</span><br> -->
-
-
 <span style="color:black">Accelerating Graph-based Vector Search via Delayed-Synchronization Traversal</span> [[Paper]](https://arxiv.org/abs/2406.12385)<br>
 <span style="color:grey"><span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>, Hang Hu, Torsten Hoefler, and Gustavo Alonso</span><br>
 
 
 ## Conference Papers
+
+
+<span style="color:#009051"> [<b>ISCA'25</b>]</span> <span style="color:black">RAGO: Systematic Performance Optimization for Retrieval-Augmented Generation Serving</span> [[Paper]](https://arxiv.org/abs/2503.14649)<br>
+<span style="color:grey"><span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>, Suvinay Subramanian, Cat Graves, Gustavo Alonso, Amir Yazdanbakhsh, and Vidushi Dadu</span><br>
+Proceedings of 52nd Annual International Symposium on Computer Architecture<br>
+
+
 
 
 <span style="color:#009051"> [<b>VLDB'25</b>]</span> <span style="color:black">Chameleon: a Heterogeneous and Disaggregated Accelerator System for Retrieval-Augmented Language Models</span> [[Paper]](https://arxiv.org/abs/2310.09949)<br>
@@ -29,7 +29,7 @@ Proceedings of the VLDB Endowment<br>
 
 <span style="color:#009051"> [<b>SIGMOD'25</b>]</span> <span style="color:black">SwiftSpatial: Spatial Joins on Modern Hardware</span> [[Paper]](https://arxiv.org/pdf/2309.16520.pdf)<br>
 <span style="color:grey"><span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>, Martin Parvanov, and Gustavo Alonso</span><br>
-International Conference on Management of Data (Conditionally Accepted)<br>
+International Conference on Management of Data<br>
 
 
 

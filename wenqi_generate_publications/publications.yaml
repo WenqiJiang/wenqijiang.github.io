@@ -7,9 +7,13 @@
 rago: 
   title: 'RAGO: Systematic Performance Optimization for Retrieval-Augmented Generation Serving'
   authors: Wenqi Jiang, Suvinay Subramanian, Cat Graves, Gustavo Alonso, Amir Yazdanbakhsh, and Vidushi Dadu
-  tag: submission
+  tag: conference
   year: 2025
-  paper: https://openreview.net/forum?id=BztVYY2jp9
+
+  venue: Proceedings of 52nd Annual International Symposium on Computer Architecture
+  short_venue: ISCA'25
+  black_short_venue: true
+  paper: https://arxiv.org/abs/2503.14649
 
 chameleon: 
   title: 'Chameleon: a Heterogeneous and Disaggregated Accelerator System for Retrieval-Augmented Language Models'
@@ -29,7 +33,7 @@ swiftspatial:
   tag: conference
   year: 2025
 
-  venue: International Conference on Management of Data (Conditionally Accepted)
+  venue: International Conference on Management of Data 
   short_venue: SIGMOD'25
   black_short_venue: true
   paper: https://arxiv.org/pdf/2309.16520.pdf
@@ -156,5 +160,4 @@ MicroRec:
   paper: https://proceedings.mlsys.org/paper_files/paper/2021/hash/9e9a5486cb2f8e44d5b5fedd2a9e5fcd-Abstract.html
   talk: https://www.youtube.com/watch?v=SJ0ze3p0GzU
   code: https://github.com/fpgasystems/FPGA-Recommendation-Accelerator
-
 
