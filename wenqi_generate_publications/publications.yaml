@@ -26,10 +26,20 @@ chameleon:
   black_short_venue: true
   paper: https://arxiv.org/abs/2310.09949
 
+falcon: 
+  title: 'Fast Graph Vector Search via Hardware Acceleration and Delayed-Synchronization Traversal'
+  authors: Wenqi Jiang, Hang Hu, Torsten Hoefler, and Gustavo Alonso
+  tag: conference
+  year: 2025 
+  
+  venue: Proceedings of the VLDB Endowment (Under Revision)
+  short_venue: VLDB'25
+  black_short_venue: true
+  paper: https://arxiv.org/abs/2406.12385
 
 swiftspatial: 
   title: 'SwiftSpatial: Spatial Joins on Modern Hardware'
-  authors: Wenqi Jiang, Martin Parvanov, and Gustavo Alonso
+  authors: Wenqi Jiang, Oleh-Yevhen Khavrona, Martin Parvanov, and Gustavo Alonso
   tag: conference
   year: 2025
 
@@ -38,15 +48,9 @@ swiftspatial:
   black_short_venue: true
   paper: https://arxiv.org/pdf/2309.16520.pdf
 
-falcon: 
-  title: 'Accelerating Graph-based Vector Search via Delayed-Synchronization Traversal'
-  authors: Wenqi Jiang, Hang Hu, Torsten Hoefler, and Gustavo Alonso
-  tag: submission
-  year: 2024 
-  paper: https://arxiv.org/abs/2406.12385
 
 piperag: 
-  title: 'PipeRAG: fast retrieval-augmented generation via algorithm-system co-design'
+  title: 'PipeRAG: Fast Retrieval-Augmented Generation via Adaptive Pipeline Parallelism'
   authors: Wenqi Jiang, Shuai Zhang, Boran Han, Jie Wang, Bernie Wang, and Tim Kraska
   tag: conference
   year: 2025

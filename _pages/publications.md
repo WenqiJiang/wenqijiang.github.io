@@ -3,13 +3,6 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-## Under Submission
-
-
-<span style="color:black">Accelerating Graph-based Vector Search via Delayed-Synchronization Traversal</span> [[Paper]](https://arxiv.org/abs/2406.12385)<br>
-<span style="color:grey"><span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>, Hang Hu, Torsten Hoefler, and Gustavo Alonso</span><br>
-
-
 ## Conference Papers
 
 
@@ -27,14 +20,21 @@ Proceedings of the VLDB Endowment<br>
 
 
 
+<span style="color:#009051"> [<b>VLDB'25</b>]</span> <span style="color:black">Fast Graph Vector Search via Hardware Acceleration and Delayed-Synchronization Traversal</span> [[Paper]](https://arxiv.org/abs/2406.12385)<br>
+<span style="color:grey"><span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>, Hang Hu, Torsten Hoefler, and Gustavo Alonso</span><br>
+Proceedings of the VLDB Endowment (Under Revision)<br>
+
+
+
+
 <span style="color:#009051"> [<b>SIGMOD'25</b>]</span> <span style="color:black">SwiftSpatial: Spatial Joins on Modern Hardware</span> [[Paper]](https://arxiv.org/pdf/2309.16520.pdf)<br>
-<span style="color:grey"><span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>, Martin Parvanov, and Gustavo Alonso</span><br>
+<span style="color:grey"><span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>, Oleh-Yevhen Khavrona, Martin Parvanov, and Gustavo Alonso</span><br>
 International Conference on Management of Data<br>
 
 
 
 
-<span style="color:#009051"> [<b>KDD'25</b>]</span> <span style="color:black">PipeRAG: fast retrieval-augmented generation via algorithm-system co-design</span> [[Paper]](https://arxiv.org/abs/2403.05676)<br>
+<span style="color:#009051"> [<b>KDD'25</b>]</span> <span style="color:black">PipeRAG: Fast Retrieval-Augmented Generation via Adaptive Pipeline Parallelism</span> [[Paper]](https://arxiv.org/abs/2403.05676)<br>
 <span style="color:grey"><span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>, Shuai Zhang, Boran Han, Jie Wang, Bernie Wang, and Tim Kraska</span><br>
 Proceedings of the 31th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining<br>
 
