@@ -18,6 +18,9 @@ main:
   # - title: "CV"
   #   url: /cv/
 
+  - title: "Recruiting"
+    url: /recruiting/
+
   - title: "Contact"
     url: /contact/
     

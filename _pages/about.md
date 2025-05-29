@@ -48,6 +48,11 @@ I work on <b>systems for machine learning</b>, with research spanning the bounda
 </a>
 
 
+<p style="color: red; font-weight: bold;">
+    I will join the National University of Singapore in Fall 2026, and I am looking for multiple PhD students to join our lab. Please check out the <a href="https://wenqijiang.github.io/recruiting" style="color: red; text-decoration: underline;">recruiting page</a> for more info.
+</p>
+
+<!-- Postdoc and intern positions may be available to outstanding candidates. -->
 
 
 <!-- Feel free to check out my [CV](https://wenqijiang.github.io/files/2023.6.17_Wenqi_Jiang_CV.pdf) to know more about me. -->
