@@ -21,7 +21,7 @@ Before joining the [Systems Group at ETH Zurich](https://systems.ethz.ch/), I ea
 
 <!-- My research centers around developing efficient <b>vector data systems on modern hardware</b>, an essential topic in today's <b>systems for machine learning</b>. -->
 
-I work on <b>systems for machine learning</b>, with research spanning the boundaries of data management, computer systems, and computer architecture. Rather than focusing on a single layer of the stack, I work across algorithms, systems, and hardware, because the increasing complexity of future machine learning (ML) systems necessitates cross-stack efforts. My research has pioneered several important topics in machine learning systems, including retrieval-augmented generation (RAG), vector search, and recommender systems.
+I work on systems for machine learning, with research spanning the boundaries of data management, computer systems, and computer architecture. Rather than focusing on a single layer of the stack, I work across algorithms, systems, and hardware, because the increasing complexity of future machine learning (ML) systems necessitates cross-stack efforts. My research has pioneered several important topics in machine learning systems, including retrieval-augmented generation (RAG), vector search, and recommender systems.
 
 <!-- However, as Moore's Law fades, we can no longer rely on automatic performance gains from technology scaling.  -->
 <!-- Consequently,  -->
