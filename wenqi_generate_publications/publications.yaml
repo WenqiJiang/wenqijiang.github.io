@@ -14,6 +14,7 @@ rago:
   short_venue: ISCA'25
   black_short_venue: true
   paper: https://arxiv.org/abs/2503.14649
+  code: https://github.com/google/rago
 
 chameleon: 
   title: 'Chameleon: a Heterogeneous and Disaggregated Accelerator System for Retrieval-Augmented Language Models'
@@ -25,6 +26,7 @@ chameleon:
   short_venue: VLDB'25
   black_short_venue: true
   paper: https://arxiv.org/abs/2310.09949
+  code: https://github.com/fpgasystems/Chameleon-RAG-Acceleration
 
 falcon: 
   title: 'Fast Graph Vector Search via Hardware Acceleration and Delayed-Synchronization Traversal'
@@ -36,6 +38,7 @@ falcon:
   short_venue: VLDB'25
   black_short_venue: true
   paper: https://arxiv.org/abs/2406.12385
+  code: https://github.com/fpgasystems/Falcon-accelerate-graph-vector-search
 
 swiftspatial: 
   title: 'SwiftSpatial: Spatial Joins on Modern Hardware'
@@ -47,6 +50,7 @@ swiftspatial:
   short_venue: SIGMOD'25
   black_short_venue: true
   paper: https://arxiv.org/pdf/2309.16520.pdf
+  code: https://github.com/WenqiJiang/spatial-join-accelerator
 
 
 piperag: 
@@ -59,6 +63,7 @@ piperag:
   short_venue: KDD'25
   black_short_venue: true
   paper: https://arxiv.org/abs/2403.05676
+  code: https://github.com/amazon-science/piperag
 
 msmacroweb:
   title: 'MS MARCO Web Search: A Large-scale Information-rich Web Dataset with Millions of Real Click Labels'

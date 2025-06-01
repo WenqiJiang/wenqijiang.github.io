@@ -21,7 +21,7 @@ We are broadly interested in building **efficient computing systems for importan
   - Systems for retrieval and RAG
 - **Systems for emerging workloads** (topics evolve over time)
 
-Feel free to check out our [publication list](https://wenqijiang.github.io/publications/) to learn more about our research. Some representative examples include [RAGO](https://arxiv.org/abs/2503.14649) (systems for ML/RAG), [Chameleon](https://arxiv.org/abs/2310.09949) (hardware/software for ML/vector Search), [PipeRAG](https://www.amazon.science/publications/piperag-fast-retrieval-augmented-generation-via-adaptive-pipeline-parallelism) (efficient ML algorithm).
+Feel free to check out our [publication list](https://wenqijiang.github.io/publications/) to learn more about our research. Some representative examples include [RAGO](https://arxiv.org/abs/2503.14649) (systems for ML/RAG), [Chameleon](https://arxiv.org/abs/2310.09949) (hardware/software for ML/vector search), [PipeRAG](https://www.amazon.science/publications/piperag-fast-retrieval-augmented-generation-via-adaptive-pipeline-parallelism) (efficient ML algorithm).
 
 ## What We Offer
 
@@ -50,7 +50,7 @@ Feel free to check out our [publication list](https://wenqijiang.github.io/publi
   Research is hard. You should have strong reasons for pursuing a PhD. Without strong motivation, it's easy to get lost or discouraged by inevitable failures during your PhD, such as paper rejections or unexpected experimental results.
 
 - **Mindset**  
-  Our primary goal in the Future Computing Lab is to produce high-quality and/or high-impact research. You should aspire to become a leader in a research direction, not just a follower. This is not easy by any means, so please ensure your mindset indeed aligns with ours before deciding to join.
+  Our primary goal in the Future Computing Lab is to produce high-quality and/or high-impact research. You should aspire to become a leader in a research direction, not a follower just aiming to publish papers. This is not easy by any means, so please ensure your mindset indeed aligns with ours before deciding to join.
 
-- **Shared interests and skills**  
+- **Research interests and skills**  
   Your research interests should align with at least some areas we work on. The Future Computing Lab covers a wide range of topics, and we expect you to have some technical backgrounds in the topics that you wish to pursue within the group.
