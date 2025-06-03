@@ -4,7 +4,8 @@ permalink: /recruiting/
 author_profile: true
 ---
 
-The Future Computing Lab (FCL) at NUS is looking for **multiple** highly qualified Ph.D. students, starting in Fall 2026. Please apply via the [official application channel](https://www.comp.nus.edu.sg/programmes/pg/phdcs/application/) and mention my name in your application.
+The Future Computing Lab (FCL) at NUS is looking for **multiple** highly qualified Ph.D. students, starting in Fall 2026. Please apply through the [official application channel](https://www.comp.nus.edu.sg/programmes/pg/phdcs/application/) and mention my name in your application. Admissions at NUS School of Computing are mostly decided by the committee, so reaching out to me in advance may not give you an advantage. The committee will get in touch with you if we find you as a strong candidate after reviewing your application.
+
 
 Postdoc and intern positions may be available to outstanding candidates. Please checkout these positions later on, as we will only able to make offers after I join NUS.
 
@@ -21,7 +22,7 @@ We are broadly interested in building **efficient computing systems for importan
   - Systems for retrieval and RAG
 - **Systems for emerging workloads** (topics evolve over time)
 
-Feel free to check out our [publication list](https://wenqijiang.github.io/publications/) to learn more about our research. Some representative examples include [RAGO](https://arxiv.org/abs/2503.14649) (systems for ML/RAG), [Chameleon](https://arxiv.org/abs/2310.09949) (hardware/software for ML/vector search), [PipeRAG](https://www.amazon.science/publications/piperag-fast-retrieval-augmented-generation-via-adaptive-pipeline-parallelism) (efficient ML algorithm).
+Feel free to check out our [publication list](https://wenqijiang.github.io/publications/) to learn more about our research. Some representative examples include [RAGO](https://arxiv.org/abs/2503.14649) (systems for ML/RAG), [Chameleon](https://arxiv.org/abs/2310.09949) (hardware/software for ML/vector search), [PipeRAG](https://www.amazon.science/publications/piperag-fast-retrieval-augmented-generation-via-adaptive-pipeline-parallelism) (efficient ML algorithm). You can also check out my [talk](https://www.youtube.com/watch?v=oTkhURtg3U8) about my PhD work and the [slides](https://wenqijiang.github.io/files/2025.6.3_vector_centric_ML_systems_talk.pdf).
 
 ## What We Offer
 
