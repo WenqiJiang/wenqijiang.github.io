@@ -22,7 +22,7 @@ Proceedings of the VLDB Endowment<br>
 
 <span style="color:#009051"> [<b>VLDB'25</b>]</span> <span style="color:black">Fast Graph Vector Search via Hardware Acceleration and Delayed-Synchronization Traversal</span> [[Paper]](https://arxiv.org/abs/2406.12385) [[Code]](https://github.com/fpgasystems/Falcon-accelerate-graph-vector-search)<br>
 <span style="color:grey"><span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>, Hang Hu, Torsten Hoefler, and Gustavo Alonso</span><br>
-Proceedings of the VLDB Endowment (Under Revision)<br>
+Proceedings of the VLDB Endowment<br>
 
 
 

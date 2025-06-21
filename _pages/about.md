@@ -38,7 +38,7 @@ I work on systems for machine learning, with research spanning the boundaries of
 <!-- [<img src="https://wenqijiang.github.io/images/cv-icon.png" alt="CV" style="width: 30px; height: 30px;">](https://wenqijiang.github.io/files/2024.7.6_Wenqi_Jiang_CV.pdf) -->
 <!-- [<img src="https://wenqijiang.github.io/images/google-scholar-icon.png" alt="Google Scholar" style="width: 30px; height: 30px;">](https://scholar.google.com/citations?user=0gT0jzkAAAAJ&hl=en&oi=ao) -->
 
-<a href="https://wenqijiang.github.io/files/2025.5.15_Wenqi_Jiang_CV.pdf" title="Download CV" style="margin-right: 10px;">
+<a href="https://wenqijiang.github.io/files/2025.6.22_Wenqi_Jiang_CV.pdf" title="Download CV" style="margin-right: 10px;">
     <img src="https://wenqijiang.github.io/images/cv-icon.png" alt="CV Icon" style="vertical-align: middle; width: 25px; height: 25px;">
     CV
 </a>
