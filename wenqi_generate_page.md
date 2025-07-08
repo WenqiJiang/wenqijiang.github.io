@@ -127,6 +127,36 @@ bundle exec jekyll liveserve
 
 Once pages are changes during serve, error messages may appear `ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:20 ` but this doesn't matter.
 
+## Set photo rouding
+
+In `_sass/_sidebar.scss`, edit width and border-radius (50 = fully rounded).
+
+```
+.author__avatar {
+  display: table-cell;
+  vertical-align: top;
+//   width: 36px;
+  // set width only, for non-square avatars
+  // height: 36px;
+
+  @include breakpoint($large) {
+    display: block;
+    width: auto;
+    height: auto;
+  }
+
+  img {
+    max-width: 175px;
+    border-radius: 0;
+    // border-radius: 50%;
+    @include breakpoint($large) {
+      padding: 5px;
+      border: 1px solid $border-color;
+    }
+  }
+}
+```
+
 ## Latest way to update publication page
 
 ```

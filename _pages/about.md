@@ -11,8 +11,8 @@ redirect_from:
 ---
 
 <!-- Hi! My name is Wenqi Jiang.  -->
-I recently received my PhD at [ETH Zurich](https://ethz.ch/), where I am fortunate to be advised by [Gustavo Alonso](https://people.inf.ethz.ch/alonso/) and [Torsten Hoefler](https://htor.inf.ethz.ch/). 
-Before joining the [Systems Group at ETH Zurich](https://systems.ethz.ch/), I earned my Master's degree from Columbia University and my Bachelor's degree from Huazhong University of Science and Technology, both with honors. I have been recognized as one of the ML and Systems Rising Stars and received the AMD HACC Outstanding Researcher Award.
+I recently received my PhD at [ETH Zurich](https://ethz.ch/), where I was fortunate to be advised by [Gustavo Alonso](https://people.inf.ethz.ch/alonso/) and [Torsten Hoefler](https://htor.inf.ethz.ch/). 
+Before joining the [Systems Group @ ETHz](https://systems.ethz.ch/), I earned my Master's degree from Columbia University and my Bachelor's degree from Huazhong University of Science and Technology, both with honors. I have been recognized as one of the ML and Systems Rising Stars and received the AMD HACC Outstanding Researcher Award.
 
 <!-- TODO: add links to those awards -->
 <!-- https://mlcommons.org/2024/06/2024-mlc-rising-stars/ -->
