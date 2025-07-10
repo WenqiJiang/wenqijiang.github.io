@@ -4,8 +4,7 @@ permalink: /recruiting/
 author_profile: true
 ---
 
-The Future Computing Lab (FCL) at NUS is looking for **multiple** highly qualified Ph.D. students, starting in Fall 2026. Please apply through the [official application channel](https://www.comp.nus.edu.sg/programmes/pg/phdcs/application/) and mention my name in your application. Admissions at NUS School of Computing are mostly decided by the committee, because the department encourages first-year PhD students to rotate across groups before choosing their advisor by the end of the first semster. Thus, reaching out to me in advance may not give you an advantage unless there is an execptional match. The committee will get in touch with you if we find you as a strong candidate after reviewing your application.
-
+The Future Computing Lab (FCL) at NUS is looking for **multiple** highly qualified Ph.D. students, starting in Fall 2026. Please apply through the [official application channel](https://www.comp.nus.edu.sg/programmes/pg/phdcs/application/) and mention my name in your application. Admissions at NUS School of Computing are mostly decided by the committee instead of a single professor. Thus, reaching out to me in advance may not give you an advantage unless there is an exceptional match. The committee will get in touch with you if we find you as a strong candidate after reviewing your application (see FAQ below). After you submit your application, please fill out this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdTOdF2OL1FdwiKUgV3Cnsa6yLihKaJYoGkr70aZgmF_8iySQ/viewform?usp=header) to make sure that I am aware of your application.
 
 Postdoc and intern positions may be available to outstanding candidates. Please checkout these positions later on, as we will only able to make offers after I join NUS.
 
@@ -55,3 +54,27 @@ Feel free to check out our [publication list](https://wenqijiang.github.io/publi
 
 - **Research interests and skills**  
   Your research interests should align with at least some areas we work on. The Future Computing Lab covers a wide range of topics, and we expect you to have some technical backgrounds in the topics that you wish to pursue within the group.
+
+## (New) FAQ
+
+I’ve recently received several emails regarding the PhD admission process. Below, I’ve summarized the most common questions:
+
+- How does the PhD admission process work?
+
+The PhD admission process at NUS School of Computing (SoC) is primarily committee-based rather than advisor-based. Once you apply, your application will be reviewed by multiple committee members, who will evaluate and score your profile. If you pass this stage, the committee will schedule an interview with you (typically with a professor other than myself). Finally, a committee meeting will be held to make the final decision on your application.
+
+If your application stands out to me, I may personally recommend you to the committee. However, the final decision is always made by the committee.
+
+The committee-based process is designed to give first-year PhD students the flexibility to rotate between different research groups before selecting their advisor by the end of the first semester. So there should be multiple professors who are excited about your profile.
+
+In some cases, more senior faculty members who are willing to support you with their own external funding may champion your application, even if you're not the highest-scoring candidate on the committee’s list. However, please note that this does not apply to me, at least for the Fall 2026 cycle, as I have not applied for external funding yet.
+
+- Should I reach out to you in advance before applying?
+
+Given the committee-based nature of the admission process, I cannot tell whether SoC will extend an offer to you or not, even if your profile is impressive. Therefore, I recommend refraining from sending emails asking about your chances, as I can only reply with “yes, please apply.”
+
+- What can I do after submitting my application?
+
+After you submit your application, I recommend filling out this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdTOdF2OL1FdwiKUgV3Cnsa6yLihKaJYoGkr70aZgmF_8iySQ/viewform?usp=header) to notify me that you’ve applied. This will help me assess whether there’s a strong match between your profile and our research.
+
+If I find your profile particularly interesting, I may schedule an informal interview with you. Following that, I will recommend exceptional candidates to the committee. However, please note that I cannot offer any verbal commitments at this stage, as the final decision rests with the committee.
