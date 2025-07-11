@@ -4,9 +4,18 @@ permalink: /recruiting/
 author_profile: true
 ---
 
+<!-- Each header generates an HTML id based on its text, lowercased, with spaces replaced by hyphens and special characters removed. -->
+
+Table of Contents:
+- [Positions](#positions)
+- [Research Interests](#research-interests)
+- [What We Offer](#what-we-offer)
+- [What We Look For](#what-we-look-for)
+- [FAQ](#faq)
+
 ## Positions
 
-The Future Computing Lab (FCL) at NUS is looking for **multiple** highly qualified Ph.D. students, starting in Fall 2026. Please apply through the [official application channel](https://www.comp.nus.edu.sg/programmes/pg/phdcs/application/) and mention my name in your application. Admissions at NUS School of Computing are mostly decided by the committee instead of a single professor. Thus, reaching out to me in advance may not give you an advantage unless there is an exceptional match. The committee will get in touch with you if we find you as a strong candidate after reviewing your application (see FAQ below). After you submit your application, please fill out this [PhD Admission Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdTOdF2OL1FdwiKUgV3Cnsa6yLihKaJYoGkr70aZgmF_8iySQ/viewform?usp=header) to make sure that I am aware of your application.
+The Future Computing Lab (FCL) at NUS is looking for **multiple** highly qualified Ph.D. students, starting in Fall 2026. Please apply through the [official application channel](https://www.comp.nus.edu.sg/programmes/pg/phdcs/application/) and mention my name in your application. Admissions at NUS School of Computing are mostly decided by the committee instead of a single professor. Thus, reaching out to me in advance may not give you an advantage unless there is an exceptional match. The committee will get in touch with you if we find you as a strong candidate after reviewing your application (see [FAQ](#faq) below). After you submit your application, please fill out this [PhD Admission Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdTOdF2OL1FdwiKUgV3Cnsa6yLihKaJYoGkr70aZgmF_8iySQ/viewform?usp=header) to make sure that I am aware of your application.
 
 Postdoc and intern positions may be available to outstanding candidates. Please checkout these positions later on, as we will only able to make offers after I join NUS.
 
@@ -57,7 +66,7 @@ Feel free to check out our [publication list](https://wenqijiang.github.io/publi
 - **Research interests and skills**  
   Your research interests should align with at least some areas we work on. The Future Computing Lab covers a wide range of topics, and we expect you to have some technical backgrounds in the topics that you wish to pursue within the group.
 
-## (New) FAQ
+## FAQ
 
 I’ve recently received several emails regarding the PhD admission process. Below, I’ve summarized the most common questions:
 
