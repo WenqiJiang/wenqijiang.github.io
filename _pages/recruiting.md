@@ -69,7 +69,7 @@ If your application stands out to me, I may personally recommend you to the comm
 
 The committee-based process is designed to give first-year PhD students the flexibility to rotate between different research groups before selecting their advisor by the end of the first semester. So there should be multiple professors who are excited about your profile.
 
-In some cases, more senior faculty members who are willing to support you with their own external funding may champion your application, even if you're not the highest-scoring candidate on the committee’s list. However, please note that this does not apply to me, at least for the Fall 2026 cycle, as I have not applied for external funding yet.
+In some cases, faculty members who are willing to support you with their own external funding may champion your application even if you're not nominated by the committee. However, please note that this does not apply to me for the Fall 2026 cycle, as I have not applied for external funding yet.
 
 - Should I reach out to you in advance before applying?
 
