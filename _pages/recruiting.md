@@ -4,7 +4,9 @@ permalink: /recruiting/
 author_profile: true
 ---
 
-The Future Computing Lab (FCL) at NUS is looking for **multiple** highly qualified Ph.D. students, starting in Fall 2026. Please apply through the [official application channel](https://www.comp.nus.edu.sg/programmes/pg/phdcs/application/) and mention my name in your application. Admissions at NUS School of Computing are mostly decided by the committee instead of a single professor. Thus, reaching out to me in advance may not give you an advantage unless there is an exceptional match. The committee will get in touch with you if we find you as a strong candidate after reviewing your application (see FAQ below). After you submit your application, please fill out this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdTOdF2OL1FdwiKUgV3Cnsa6yLihKaJYoGkr70aZgmF_8iySQ/viewform?usp=header) to make sure that I am aware of your application.
+## Positions
+
+The Future Computing Lab (FCL) at NUS is looking for **multiple** highly qualified Ph.D. students, starting in Fall 2026. Please apply through the [official application channel](https://www.comp.nus.edu.sg/programmes/pg/phdcs/application/) and mention my name in your application. Admissions at NUS School of Computing are mostly decided by the committee instead of a single professor. Thus, reaching out to me in advance may not give you an advantage unless there is an exceptional match. The committee will get in touch with you if we find you as a strong candidate after reviewing your application (see FAQ below). After you submit your application, please fill out this [PhD Admission Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdTOdF2OL1FdwiKUgV3Cnsa6yLihKaJYoGkr70aZgmF_8iySQ/viewform?usp=header) to make sure that I am aware of your application.
 
 Postdoc and intern positions may be available to outstanding candidates. Please checkout these positions later on, as we will only able to make offers after I join NUS.
 
@@ -71,10 +73,10 @@ In some cases, more senior faculty members who are willing to support you with t
 
 - Should I reach out to you in advance before applying?
 
-Given the committee-based nature of the admission process, I cannot tell whether SoC will extend an offer to you or not, even if your profile is impressive. Therefore, I recommend refraining from sending emails asking about your chances, as I can only reply with “yes, please apply.”
+Given the committee-based nature of the admission process, I cannot tell whether SoC will extend an offer to you or not, even if your profile is impressive. Therefore, for emails asking about your chances, I can only reply with “yes, please apply.”
 
 - What can I do after submitting my application?
 
-After you submit your application, I recommend filling out this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdTOdF2OL1FdwiKUgV3Cnsa6yLihKaJYoGkr70aZgmF_8iySQ/viewform?usp=header) to notify me that you’ve applied. This will help me assess whether there’s a strong match between your profile and our research.
+After you submit your application, I recommend filling out this [PhD Admission Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdTOdF2OL1FdwiKUgV3Cnsa6yLihKaJYoGkr70aZgmF_8iySQ/viewform?usp=header) to notify me that you’ve applied. This will help me assess whether there’s a strong match between your profile and our research.
 
 If I find your profile particularly interesting, I may schedule an informal interview with you. Following that, I will recommend exceptional candidates to the committee. However, please note that I cannot offer any verbal commitments at this stage, as the final decision rests with the committee.
