@@ -13,6 +13,8 @@ Table of Contents:
 - [What We Look For](#what-we-look-for)
 - [FAQ](#faq)
 
+To learn our latest news related to hiring, feel free to follow my [RedNote](https://www.xiaohongshu.com/user/profile/61dc8a49000000001000f329) account (ID:6524653638) if you use Chinese social media.
+
 ## Positions
 
 The Future Computing Lab (FCL) at NUS is looking for **multiple** highly qualified Ph.D. students, starting in Fall 2026. Please apply through the [official application channel](https://www.comp.nus.edu.sg/programmes/pg/phdcs/application/) and mention my name in your application. Admissions at NUS School of Computing are mostly decided by the committee instead of a single professor. Thus, reaching out to me in advance may not give you an advantage unless there is an exceptional match. The committee will get in touch with you if we find you as a strong candidate after reviewing your application (see [FAQ](#faq) below). After you submit your application, please fill out this [PhD Admission Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdTOdF2OL1FdwiKUgV3Cnsa6yLihKaJYoGkr70aZgmF_8iySQ/viewform?usp=header) to make sure that I am aware of your application.
