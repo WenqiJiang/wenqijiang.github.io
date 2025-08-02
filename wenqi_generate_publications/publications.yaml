@@ -15,6 +15,7 @@ rago:
   black_short_venue: true
   paper: https://arxiv.org/abs/2503.14649
   code: https://github.com/google/rago
+  talk: https://youtu.be/cP6RiNRJsVI
 
 chameleon: 
   title: 'Chameleon: a Heterogeneous and Disaggregated Accelerator System for Retrieval-Augmented Language Models'
@@ -64,6 +65,7 @@ piperag:
   black_short_venue: true
   paper: https://arxiv.org/abs/2403.05676
   code: https://github.com/amazon-science/piperag
+  talk: https://youtu.be/UV_kHhZ60Fc
 
 msmacroweb:
   title: 'MS MARCO Web Search: A Large-scale Information-rich Web Dataset with Millions of Real Click Labels'

@@ -13,7 +13,7 @@ Table of Contents:
 - [What We Look For](#what-we-look-for)
 - [FAQ](#faq)
 
-To learn our latest news related to hiring, feel free to follow my [RedNote](https://www.xiaohongshu.com/user/profile/61dc8a49000000001000f329) account (ID:6524653638) if you use Chinese social media.
+To learn our latest news about hiring and research, feel free to follow my [RedNote](https://www.xiaohongshu.com/user/profile/61dc8a49000000001000f329) account (ID:6524653638) if you use Chinese social media.
 
 ## Positions
 

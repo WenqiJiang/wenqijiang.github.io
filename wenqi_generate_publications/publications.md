@@ -6,7 +6,7 @@ author_profile: true
 ## Conference Papers
 
 
-<span style="color:#009051"> [<b>ISCA'25</b>]</span> <span style="color:black">RAGO: Systematic Performance Optimization for Retrieval-Augmented Generation Serving</span> [[Paper]](https://arxiv.org/abs/2503.14649) [[Code]](https://github.com/google/rago)<br>
+<span style="color:#009051"> [<b>ISCA'25</b>]</span> <span style="color:black">RAGO: Systematic Performance Optimization for Retrieval-Augmented Generation Serving</span> [[Paper]](https://arxiv.org/abs/2503.14649) [[Talk]](https://youtu.be/cP6RiNRJsVI) [[Code]](https://github.com/google/rago)<br>
 <span style="color:grey"><span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>, Suvinay Subramanian, Cat Graves, Gustavo Alonso, Amir Yazdanbakhsh, and Vidushi Dadu</span><br>
 Proceedings of 52nd Annual International Symposium on Computer Architecture<br>
 
@@ -34,7 +34,7 @@ International Conference on Management of Data<br>
 
 
 
-<span style="color:#009051"> [<b>KDD'25</b>]</span> <span style="color:black">PipeRAG: Fast Retrieval-Augmented Generation via Adaptive Pipeline Parallelism</span> [[Paper]](https://arxiv.org/abs/2403.05676) [[Code]](https://github.com/amazon-science/piperag)<br>
+<span style="color:#009051"> [<b>KDD'25</b>]</span> <span style="color:black">PipeRAG: Fast Retrieval-Augmented Generation via Adaptive Pipeline Parallelism</span> [[Paper]](https://arxiv.org/abs/2403.05676) [[Talk]](https://youtu.be/UV_kHhZ60Fc) [[Code]](https://github.com/amazon-science/piperag)<br>
 <span style="color:grey"><span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>, Shuai Zhang, Boran Han, Jie Wang, Bernie Wang, and Tim Kraska</span><br>
 Proceedings of the 31th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining<br>
 
