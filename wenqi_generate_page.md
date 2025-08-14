@@ -169,6 +169,9 @@ cp publications.md ../_pages/
 python latex_pub_generation.py
 ```
 
+### Google visis Analytics
+
+https://analytics.google.com/
 
 
 ### Apply Changes from Orignal Template to your own
