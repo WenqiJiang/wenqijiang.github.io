@@ -32,7 +32,7 @@ We are broadly interested in building **efficient computing systems for importan
 - **Vector search and Retrieval-Augmented Generation (RAG)**
   - Retrieval and RAG algorithms
   - Systems for retrieval and RAG
-- **Systems for emerging workloads** (topics evolve over time)
+- **Systems for emerging workloads** such as robotics and emboddied AI (topics evolve over time)
 
 Feel free to check out our [publication list](https://wenqijiang.github.io/publications/) to learn more about our research. Some representative examples include [RAGO](https://arxiv.org/abs/2503.14649) (systems for ML/RAG), [Chameleon](https://arxiv.org/abs/2310.09949) (hardware/software for ML/vector search), [PipeRAG](https://www.amazon.science/publications/piperag-fast-retrieval-augmented-generation-via-adaptive-pipeline-parallelism) (efficient ML algorithm). You can also check out my [talk](https://www.youtube.com/watch?v=oTkhURtg3U8) about my PhD work and the [slides](https://wenqijiang.github.io/files/2025.6.3_vector_centric_ML_systems_talk.pdf).
 
