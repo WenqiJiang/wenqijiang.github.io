@@ -29,6 +29,8 @@ chameleon:
   paper: https://arxiv.org/abs/2310.09949
   code: https://github.com/fpgasystems/Chameleon-RAG-Acceleration
 
+  award: Best Scalable Data Science Paper Award
+
 falcon: 
   title: 'Fast Graph Vector Search via Hardware Acceleration and Delayed-Synchronization Traversal'
   authors: Wenqi Jiang, Hang Hu, Torsten Hoefler, and Gustavo Alonso

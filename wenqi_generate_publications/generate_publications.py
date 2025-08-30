@@ -109,6 +109,11 @@ def get_pub_str(pub):
 		pub_str += pub['venue']
 		pub_str += '<br>\n'
 
+	# optional award line
+	if 'award' in pub:
+		pub_str += '<span style="color:red">🏆 <b>%s</b></span><br>\n' % pub['award']
+
+
 	return pub_str
 
 if __name__ == '__main__':
@@ -128,3 +133,4 @@ if __name__ == '__main__':
 		f.write(out_str)
 
 	print("Move to _pages/publications.md: cp publications.md ../_pages/")
+	print("Serve locally:\nsource ~/.bashrc\ncd ..\nbundle exec jekyll serve")

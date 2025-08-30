@@ -12,7 +12,7 @@ redirect_from:
 
 <!-- Hi! My name is Wenqi Jiang.  -->
 I recently received my PhD at [ETH Zurich](https://ethz.ch/), where I was fortunate to be advised by [Gustavo Alonso](https://people.inf.ethz.ch/alonso/) and [Torsten Hoefler](https://htor.inf.ethz.ch/). 
-Before joining the [Systems Group @ ETHz](https://systems.ethz.ch/), I earned my Master's degree from Columbia University and my Bachelor's degree from Huazhong University of Science and Technology, both with honors. I have been recognized as one of the ML and Systems Rising Stars and received the AMD HACC Outstanding Researcher Award.
+Before joining the [Systems Group @ ETHz](https://systems.ethz.ch/), I earned my Master's degree from Columbia University and my Bachelor's degree from Huazhong University of Science and Technology, both with honors. My work has been recognized with a VLDB Best Paper Award, the ML and Systems Rising Star Award, and the AMD HACC Outstanding Researcher Award.
 
 <!-- TODO: add links to those awards -->
 <!-- https://mlcommons.org/2024/06/2024-mlc-rising-stars/ -->
@@ -38,7 +38,7 @@ I work on systems for machine learning, with research spanning the boundaries of
 <!-- [<img src="https://wenqijiang.github.io/images/cv-icon.png" alt="CV" style="width: 30px; height: 30px;">](https://wenqijiang.github.io/files/2024.7.6_Wenqi_Jiang_CV.pdf) -->
 <!-- [<img src="https://wenqijiang.github.io/images/google-scholar-icon.png" alt="Google Scholar" style="width: 30px; height: 30px;">](https://scholar.google.com/citations?user=0gT0jzkAAAAJ&hl=en&oi=ao) -->
 
-<a href="https://wenqijiang.github.io/files/2025.6.22_Wenqi_Jiang_CV.pdf" title="Download CV" style="margin-right: 10px;">
+<a href="https://wenqijiang.github.io/files/2025.8.30_Wenqi_Jiang_CV.pdf" title="Download CV" style="margin-right: 10px;">
     <img src="https://wenqijiang.github.io/images/cv-icon.png" alt="CV Icon" style="vertical-align: middle; width: 25px; height: 25px;">
     CV
 </a>

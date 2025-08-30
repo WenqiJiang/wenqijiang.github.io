@@ -67,6 +67,10 @@ def get_pub_str(pub):
 		pub_str += '{}'
 	pub_str += '\n' + '\end{Pub}'
 
+	# optional award
+	if 'award' in pub:
+		pub_str += '\n\\vspace{-.5em}\n\\raisebox{-0.2em}{\\includegraphics[height=1.2em]{figures/trophy.png}}~{\\color{red}\\textbf{' + pub['award'] + '}}'
+
 	return pub_str
 
 if __name__ == '__main__':

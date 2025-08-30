@@ -120,7 +120,7 @@ bundle clean --force
 # rm -r .DS_Store
 
 # jekyll will automatically apply changes when you change .md files
-bundle exec jekyll liveserve
+bundle exec jekyll serve
 
 # localhost:4000 in browser
 ```
