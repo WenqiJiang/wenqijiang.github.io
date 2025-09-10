@@ -11,6 +11,8 @@ redirect_from:
 ---
 
 <!-- Hi! My name is Wenqi Jiang.  -->
+
+I am an incoming Assistant Professor at the National University of Singapore, starting from Fall 2026. 
 I recently received my PhD at [ETH Zurich](https://ethz.ch/), where I was fortunate to be advised by [Gustavo Alonso](https://people.inf.ethz.ch/alonso/) and [Torsten Hoefler](https://htor.inf.ethz.ch/). 
 Before joining the [Systems Group @ ETHz](https://systems.ethz.ch/), I earned my Master's degree from Columbia University and my Bachelor's degree from Huazhong University of Science and Technology, both with honors. My work has been recognized with a VLDB Best Paper Award, the ML and Systems Rising Star Award, and the AMD HACC Outstanding Researcher Award.
 
@@ -49,7 +51,7 @@ I work on systems for machine learning, with research spanning the boundaries of
 
 
 <p style="color: red; font-weight: bold;">
-    I will join the National University of Singapore in Fall 2026, and I am looking for multiple PhD students to join our lab. Please check out the <a href="https://wenqijiang.github.io/recruiting" style="color: red; text-decoration: underline;">recruiting page</a> for more info.
+    I will join NUS as an assistant professor in Fall 2026, and I am looking for multiple PhD students to join our lab. Please check out the <a href="https://wenqijiang.github.io/recruiting" style="color: red; text-decoration: underline;">recruiting page</a> for more info.
 </p>
 
 <!-- Postdoc and intern positions may be available to outstanding candidates. -->
