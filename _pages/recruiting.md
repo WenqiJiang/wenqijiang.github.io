@@ -80,16 +80,16 @@ The PhD admission process at NUS School of Computing (SoC) is primarily committe
 
 If your application stands out to me, I may personally recommend you to the committee. However, the final decision is always made by the committee.
 
-The committee-based process is designed to give first-year PhD students the flexibility to rotate between different research groups before selecting their advisor by the end of the first semester. So there should be multiple professors who are excited about your profile.
+The committee-based process is designed to give first-year PhD students the flexibility to rotate between different research groups before selecting their advisor by the end of the first semester. So there should be multiple professors who are excited about your profile before we can extend you an offer.
 
-In some cases, faculty members who are willing to support you with their own external funding may champion your application even if you're not nominated by the committee. However, please note that this does not apply to me for the Fall 2026 cycle, as I have not applied for external funding yet.
+In some cases, faculty members who are willing to support you with their own external funding may champion your application even if you're not nominated by the committee -- this is the only case when a single professor (instead of the committee) can commit an offer. However, please note that this does not apply to me for the Fall 2026 cycle, as I have not applied for external funding yet.
 
 - Should I reach out to you in advance before applying?
 
-Given the committee-based nature of the admission process, I cannot tell whether SoC will extend an offer to you or not, even if your profile is impressive. Therefore, for emails asking about your chances, I can only reply with “yes, please apply.”
+Given the committee-based nature of the admission process, I cannot tell whether SoC will extend an offer to you or not, even if your profile is impressive. Therefore, for emails asking about your chances, I can only reply with “please apply.”
 
 - What can I do after submitting my application?
 
 After you submit your application, I recommend filling out this [PhD Admission Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdTOdF2OL1FdwiKUgV3Cnsa6yLihKaJYoGkr70aZgmF_8iySQ/viewform?usp=header) to notify me that you’ve applied. This will help me assess whether there’s a strong match between your profile and our research.
 
-If I find your profile particularly interesting, I may schedule an informal interview with you. Following that, I will recommend exceptional candidates to the committee. However, please note that I cannot offer any verbal commitments at this stage, as the final decision rests with the committee.
+If I find your profile particularly interesting, I may schedule an informal interview with you. Following that, I will recommend exceptional candidates to the committee (I can only nominate a very small number of candidates per cycle though). However, please note that I cannot offer any verbal commitments at this stage, as the final decision rests with the committee.
