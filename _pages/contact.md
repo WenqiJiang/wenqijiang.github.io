@@ -13,4 +13,9 @@ Switzerland<br>
 
 ## Email
 
-wenqi [dot] jiang [at] inf.ethz.ch
+jiangwenqi233 [at] gmail [dot] com
+
+[My ETH email is about to expire. You can find me by Gmail before I join NUS.]
+
+<!-- wenqi [dot] jiang [at] inf.ethz.ch -->
+

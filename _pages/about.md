@@ -49,7 +49,7 @@ One of my hobbies is to publishing broadly across various systems-related venues
 <!-- [<img src="https://wenqijiang.github.io/images/cv-icon.png" alt="CV" style="width: 30px; height: 30px;">](https://wenqijiang.github.io/files/2024.7.6_Wenqi_Jiang_CV.pdf) -->
 <!-- [<img src="https://wenqijiang.github.io/images/google-scholar-icon.png" alt="Google Scholar" style="width: 30px; height: 30px;">](https://scholar.google.com/citations?user=0gT0jzkAAAAJ&hl=en&oi=ao) -->
 
-<a href="https://wenqijiang.github.io/files/2026.1.28_Wenqi_Jiang_CV.pdf" title="Download CV" style="margin-right: 10px;">
+<a href="https://wenqijiang.github.io/files/2026.2.15_Wenqi_Jiang_CV.pdf" title="Download CV" style="margin-right: 10px;">
     <img src="https://wenqijiang.github.io/images/cv-icon.png" alt="CV Icon" style="vertical-align: middle; width: 25px; height: 25px;">
     CV
 </a>
@@ -58,6 +58,7 @@ One of my hobbies is to publishing broadly across various systems-related venues
     Scholar
 </a>
 
+[My ETH email is about to expire. You can find me by Gmail before I join NUS.]
 
 <p style="color: red; font-weight: bold;">
     Hiring: I am looking for multiple PhD students to join my lab. You can find more info <a href="https://wenqijiang.github.io/recruiting" style="color: red; text-decoration: underline;">here</a>.
