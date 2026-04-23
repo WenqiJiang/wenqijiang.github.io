@@ -5,15 +5,15 @@ import yaml
 # load "publications.yaml"
 with open('publications.yaml', 'r') as f:
 	all_pubs = yaml.load(f, Loader=yaml.FullLoader)
-tag_order = ['submission', 'conference', 'journal', 'workshop', 'tutorial']
+tag_order = ['conference', 'journal', 'workshop', 'tutorial', 'preprint']
 
 print(all_pubs)
 
 
 def tag_to_header(tag):
 	tail = '\n' + '\\begin{enumerate}[label={[\\arabic*]}]'
-	if tag == 'submission':
-		return '\\begin{rSection}{Under Submission}' + tail
+	if tag == 'preprint':
+		return '\\begin{rSection}{Preprint}' + tail
 	elif tag == 'conference':
 		return '\\begin{rSection}{Conference Papers}' + tail
 	elif tag == 'journal':

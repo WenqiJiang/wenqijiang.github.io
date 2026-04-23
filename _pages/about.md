@@ -14,13 +14,13 @@ redirect_from:
 
 I am an incoming Assistant Professor at the National University of Singapore, starting from Fall 2026. 
 <!--  -->
-Currently, I am a visiting researcher at NVIDIA, working with [Christos Kozyrakis](https://www.stanford.edu/~kozyraki/).
+Currently, I am a visiting researcher at NVIDIA, where I am fortunate to work with [Christos Kozyrakis](https://www.stanford.edu/~kozyraki/).
 <!--  -->
-I recently received my PhD at [ETH Zurich](https://ethz.ch/), where I was fortunate to be advised by [Gustavo Alonso](https://people.inf.ethz.ch/alonso/) and [Torsten Hoefler](https://htor.inf.ethz.ch/) at the [Systems Group](https://systems.ethz.ch/).
+Before that, I received my PhD at [ETH Zurich](https://ethz.ch/), where I was fortunate to be advised by [Gustavo Alonso](https://people.inf.ethz.ch/alonso/) and [Torsten Hoefler](https://htor.inf.ethz.ch/), and my thesis was recognized with the [SIGMOD Jim Gray Doctoral Dissertation Award](https://sigmod.org/sigmod-awards/sigmod-jim-gray-doctoral-dissertation-award/).
 <!--  -->
 I earned my Master's degree from Columbia University and my Bachelor's degree from Huazhong University of Science and Technology, both with honors.
 <!--  -->
-My work has been recognized with a VLDB Best Paper Award (as the first-author), the ML and Systems Rising Star Award, and the AMD HACC Outstanding Researcher Award.
+My work has been recognized with a VLDB Best Paper Award, the ML and Systems Rising Star Award, and the AMD HACC Outstanding Researcher Award.
 
 <!-- TODO: add links to those awards -->
 <!-- https://mlcommons.org/2024/06/2024-mlc-rising-stars/ -->
@@ -29,7 +29,7 @@ My work has been recognized with a VLDB Best Paper Award (as the first-author), 
 
 <!-- My research centers around developing efficient <b>vector data systems on modern hardware</b>, an essential topic in today's <b>systems for machine learning</b>. -->
 
-I work on **systems for machine learning**, with research spanning the boundaries of data management, computer systems, and computer architecture. Rather than focusing on a single layer of the stack, I work across algorithms, systems, and hardware, because the increasing complexity of future machine learning (ML) systems necessitates cross-stack efforts. My research has pioneered several important topics in machine learning systems, including retrieval-augmented generation (RAG), vector search, and recommender systems.
+I work on **systems for machine learning**, with research spanning the boundaries of data management, computer systems, and computer architecture. Rather than focusing on a single layer of the stack, I work across algorithms, systems, and hardware, because the increasing complexity of future machine learning (ML) systems necessitates cross-stack efforts. My research has pioneered several important topics in machine learning systems, including retrieval-augmented generation (RAG), vector search, recommender systems, and, most recently, robotics systems.
 <!--  -->
 One of my hobbies is to publishing broadly across various systems-related venues. So far, I have published first-author papers in databases (SIGMOD, VLDB), high-performance computing (SC), computer architecture (ISCA), ML systems (MLSys), and data mining (KDD). OSDI/SOSP is one box I didn't check during my PhD, but it is very much on my agenda as a faculty member! Pro tip: I wouldn't recommend doing this as a new PhD student though, as you will have a hard time to find and settle into a research community.
 
@@ -60,9 +60,9 @@ One of my hobbies is to publishing broadly across various systems-related venues
 
 [My ETH email is about to expire. You can find me by Gmail before I join NUS.]
 
-<p style="color: red; font-weight: bold;">
+<!-- <p style="color: red; font-weight: bold;">
     Hiring: I am looking for multiple PhD students to join my lab. You can find more info <a href="https://wenqijiang.github.io/recruiting" style="color: red; text-decoration: underline;">here</a>.
-</p>
+</p> -->
 
 <!-- Postdoc and intern positions may be available to outstanding candidates. -->
 

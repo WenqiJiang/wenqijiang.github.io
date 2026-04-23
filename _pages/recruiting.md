@@ -17,24 +17,26 @@ To learn our latest news about hiring and research, feel free to follow my [RedN
 
 ## Positions
 
-The Future Computing Lab (FCL) at NUS is looking for **multiple** highly qualified Ph.D. students, starting in Fall 2026. Please apply through the [official application channel](https://www.comp.nus.edu.sg/programmes/pg/phdcs/application/) and mention my name in your application. Admissions at NUS School of Computing are mostly decided by the committee instead of a single professor. Thus, reaching out to me in advance may not give you an advantage unless there is an exceptional match. The committee will get in touch with you if we find you as a strong candidate after reviewing your application (see [FAQ](#faq) below). After you submit your application, please fill out this [PhD Admission Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdTOdF2OL1FdwiKUgV3Cnsa6yLihKaJYoGkr70aZgmF_8iySQ/viewform?usp=header) to make sure that I am aware of your application.
+PhD Students: The Future Computing Lab (FCL) at NUS always looks for highly-motivated PhD students. Please apply through the [official application channel](https://www.comp.nus.edu.sg/programmes/pg/phdcs/application/) and mention my name in your application. Admissions at NUS School of Computing are mostly decided by the committee instead of a single professor. Thus, reaching out to me in advance may not give you an advantage unless there is an exceptional match. The committee will get in touch with you if we find you as a strong candidate after reviewing your application (see [FAQ](#faq) below). After you submit your application, please fill out this [PhD Admission Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdTOdF2OL1FdwiKUgV3Cnsa6yLihKaJYoGkr70aZgmF_8iySQ/viewform?usp=header) to make sure that I am aware of your application.
 
-**Note: my name is not in the NUS PhD application system at the moment, because I haven't officially joined NUS yet.** You can either leave the advisor entry as empty or choose another professor that you are interested in. As long as you mention my name in your application material, it should be fine. 
+<!-- **Note: my name is not in the NUS PhD application system at the moment, because I haven't officially joined NUS yet.** You can either leave the advisor entry as empty or choose another professor that you are interested in. As long as you mention my name in your application material, it should be fine.  -->
 
-Postdoc and intern positions may be available to outstanding candidates. Please checkout these positions later on, as we will only able to make offers after I join NUS.
+Postdocs: We do not have postdoc openings at the moment, but will update the website once there is one.
+
+Interns: We might hire a very small number of paid intern students for summer 2027. Please check out the website early 2027 for more details.
 
 ## Research Interests
 
-We are broadly interested in building **efficient computing systems for important workloads**, and we work **across the stack** (e.g., topics spanning ML, databases, systems, and architecture). Some topics we are exploring include:
+We are broadly interested in building **efficient computing systems for important workloads (== AI?)**, and we work **across the stack** (e.g., topics spanning ML, databases, systems, and architecture). Some topics we are currently exploring include:
 
-- **Systems for ML**
-  - Software systems for ML
-  - Hardware architecture for ML
-  - Efficient ML algorithms
-- **Vector search and Retrieval-Augmented Generation (RAG)**
-  - Retrieval and RAG algorithms
-  - Systems for retrieval and RAG
-- **Systems for emerging workloads** such as robotics and emboddied AI (topics evolve over time)
+- **Vector-centric ML Systems**
+  - Vector search and vector databases
+  - Retrieval-augmented generation
+  - Agent memory
+  - KV cache management
+- **Systems for robotics and embodied AI**
+  - Software systems for robots
+  - Efficient robotics algorithms
 
 Feel free to check out our [publication list](https://wenqijiang.github.io/publications/) to learn more about our research. Some representative examples include [RAGO](https://arxiv.org/abs/2503.14649) (systems for ML/RAG), [Chameleon](https://arxiv.org/abs/2310.09949) (hardware/software for ML/vector search), [PipeRAG](https://www.amazon.science/publications/piperag-fast-retrieval-augmented-generation-via-adaptive-pipeline-parallelism) (efficient ML algorithm). You can also check out my [talk](https://www.youtube.com/watch?v=oTkhURtg3U8) about my PhD work and the [slides](https://wenqijiang.github.io/files/2025.6.3_vector_centric_ML_systems_talk.pdf).
 

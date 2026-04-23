@@ -3,7 +3,7 @@ import yaml
 # load "publications.yaml"
 with open('publications.yaml', 'r') as f:
 	all_pubs = yaml.load(f, Loader=yaml.FullLoader)
-tag_order = ['submission', 'conference', 'journal', 'workshop', 'tutorial']
+tag_order = ['conference', 'journal', 'workshop', 'tutorial', 'preprint']
 
 print(all_pubs)
 header = '''---
@@ -14,8 +14,8 @@ author_profile: true
 '''
 
 def tag_to_header(tag):
-	if tag == 'submission':
-		return '## Under Submission'
+	if tag == 'preprint':
+		return '## Preprint'
 	elif tag == 'conference':
 		return '## Conference Papers'
 	elif tag == 'journal':
@@ -43,7 +43,7 @@ def get_pub_str(pub):
 	"""
 	Pub: a single entry (dict) containing publicatoin information
 	Mandatory: 
-   		title, authors, venue, year, tag (submission, conference, journal, workshop, poster, demo, talk, tutorial, book)
+   		title, authors, venue, year, tag (preprint, conference, journal, workshop, poster, demo, talk, tutorial, book)
 	Optional:
 		short_venue, black_short_venue, paper, code, talk, addtional
 	"""

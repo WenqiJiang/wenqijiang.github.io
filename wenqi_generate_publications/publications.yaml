@@ -1,8 +1,42 @@
 # Please add entries in reverse time order (latest first), as this is the order to show per category
 # Mandatory: 
-#    title, authors, year, tag (submission, conference, journal, workshop, poster, demo, talk, tutorial, book)
+#    title, authors, year, tag (preprint, conference, journal, workshop, poster, demo, talk, tutorial, book)
 # Optional:
 #    venue, short_venue, black_short_venue, paper, code, talk, website, addtional
+
+vlaperf:
+  title: 'How Fast Can I Run My VLA? Demystifying VLA Inference Performance with VLA-Perf'
+  authors: Wenqi Jiang, Jason Clemons, Karu Sankaralingam, and Christos Kozyrakis
+  tag: preprint
+  year: 2026
+
+  venue: arXiv preprint
+  short_venue: arXiv'26
+  black_short_venue: false
+
+  paper: https://arxiv.org/abs/2602.18397
+
+roboticrevolution:
+  title: 'Enabling the Robotic Revolution: Bridging Performance Gap between Present and Future'
+  authors: Qijing Huang, Wenqi Jiang, Christos Kozyrakis, and Jason Clemons
+  tag: conference
+  year: 2026
+
+  venue: IEEE/JSAP Symposium on VLSI Technology and Circuits
+  short_venue: VLSI'26
+  black_short_venue: false
+
+hexgenflow:
+  title: 'HEXGEN-FLOW: Optimizing LLM Inference Request Scheduling for Agentic Text-to-SQL'
+  authors: You Peng, Youhe Jiang, Wenqi Jiang, Chen Wang, and Binhang Yuan
+  tag: conference
+  year: 2026
+
+  venue: IEEE International Conference on Data Engineering
+  short_venue: ICDE'26
+  black_short_venue: false
+
+  paper: https://arxiv.org/abs/2505.05286
 
 rago: 
   title: 'RAGO: Systematic Performance Optimization for Retrieval-Augmented Generation Serving'
