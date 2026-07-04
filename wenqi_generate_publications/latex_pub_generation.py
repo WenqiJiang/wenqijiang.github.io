@@ -1,4 +1,5 @@
-
+import argparse
+import re
 
 import yaml
 
@@ -6,8 +7,6 @@ import yaml
 with open('publications.yaml', 'r') as f:
 	all_pubs = yaml.load(f, Loader=yaml.FullLoader)
 tag_order = ['conference', 'journal', 'workshop', 'tutorial', 'preprint']
-
-print(all_pubs)
 
 
 def tag_to_header(tag):
@@ -40,6 +39,21 @@ def classify_publications(all_pubs):
 			del classified_pubs[tag]
 	return classified_pubs
 
+def publication_time_key(pub):
+	"""
+	Sort by optional date first, then year. Supported date formats:
+	YYYY, YYYY-MM, YYYY-MM-DD, YYYY.MM, and YYYY.MM.DD.
+	"""
+	raw_date = str(pub.get('date', pub.get('year', '0')))
+	parts = [int(part) for part in re.findall(r'\d+', raw_date)]
+	parts = (parts + [0, 0, 0])[:3]
+	return tuple(parts)
+
+def get_publications_by_time(all_pubs):
+	indexed_pubs = list(enumerate(all_pubs.values()))
+	indexed_pubs.sort(key=lambda item: (publication_time_key(item[1]), -item[0]), reverse=True)
+	return [pub for _, pub in indexed_pubs]
+
 def get_pub_str(pub):
 	"""
 	An example used in resume:
@@ -49,8 +63,11 @@ def get_pub_str(pub):
 	"""
 
 	pub_str = '\n\n'
-	pub_str += '\item \n'
-	pub_str += '\\begin{Pub}{' + pub['title'] + '}' + '\n'
+	pub_str += '\\item\n'
+	title = pub['title']
+	if 'paper' in pub:
+		title = '\\href{' + pub['paper'] + '}{' + title + '}'
+	pub_str += '\\begin{Pub}{' + title + '}' + '\n'
 	pub_str += '{' + pub['authors'].replace('Wenqi Jiang', '\\textbf{Wenqi Jiang}') + '}' + '\n'
 	if 'venue' in pub:
 		pub_str += '{' + pub['venue'] 
@@ -73,18 +90,43 @@ def get_pub_str(pub):
 
 	return pub_str
 
-if __name__ == '__main__':
+def parse_args():
+	parser = argparse.ArgumentParser(description='Generate publication LaTeX.')
+	parser.add_argument('--mode', choices=['split', 'mixed'], default='split',
+		help='split groups publications by type; mixed emits one chronological list')
+	parser.add_argument('--output', default=None,
+		help='output file path; defaults to publications.tex for split and publications_mixed.tex for mixed')
+	parser.add_argument('--verbose', action='store_true',
+		help='print parsed publication data')
+	return parser.parse_args()
 
-	classified_pubs = classify_publications(all_pubs)
+if __name__ == '__main__':
+	args = parse_args()
+	if args.verbose:
+		print(all_pubs)
 
 	out_str = ''
 
-	for tag in tag_order:
-		if tag in classified_pubs:
-			out_str += '\n\n' + tag_to_header(tag)
-			for pub in classified_pubs[tag]:
-				out_str += get_pub_str(pub)
-			out_str += '\end{enumerate}' + '\n' + '\end{rSection}' + '\n\n'
+	if args.mode == 'split':
+		classified_pubs = classify_publications(all_pubs)
+		for tag in tag_order:
+			if tag in classified_pubs:
+				out_str += '\n\n' + tag_to_header(tag)
+				for pub in classified_pubs[tag]:
+					out_str += get_pub_str(pub)
+				out_str += '\end{enumerate}' + '\n' + '\end{rSection}' + '\n\n'
+	else:
+		out_str += '\n\n\\begin{rSection}{Publications}'
+		out_str += '\n\\begin{enumerate}[label={[\\arabic*]}]'
+		for pub in get_publications_by_time(all_pubs):
+			out_str += get_pub_str(pub)
+		out_str += '\end{enumerate}' + '\n' + '\end{rSection}' + '\n\n'
 
-	with open('publications.tex', 'w') as f:
+	output = args.output
+	if output is None:
+		output = 'publications.tex' if args.mode == 'split' else 'publications_mixed.tex'
+
+	with open(output, 'w') as f:
 		f.write(out_str)
+
+	print("Wrote %s" % output)

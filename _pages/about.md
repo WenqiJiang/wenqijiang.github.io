@@ -29,9 +29,9 @@ My work has been recognized with a VLDB Best Paper Award, the ML and Systems Ris
 
 <!-- My research centers around developing efficient <b>vector data systems on modern hardware</b>, an essential topic in today's <b>systems for machine learning</b>. -->
 
-I work on **systems for machine learning**, with research spanning the boundaries of data management, computer systems, and computer architecture. Rather than focusing on a single layer of the stack, I work across algorithms, systems, and hardware, because the increasing complexity of future machine learning (ML) systems necessitates cross-stack efforts. My research has pioneered several important topics in machine learning systems, including retrieval-augmented generation (RAG), vector search, recommender systems, and, most recently, robotics systems.
+I work on **full-stack ML systems / AI infrastructure**, and my most recent interests include **database + AI** and **robotics systems**. Rather than focusing on a single layer of the stack, I work across algorithms, systems, and hardware. As a result, I publish broadly across various systems-related venues, suchh as databases (SIGMOD, VLDB), high-performance computing (SC), computer architecture (ISCA), ML systems (MLSys), and data mining (KDD). My research has pioneered several important topics in machine learning systems, including retrieval-augmented generation (RAG), vector search, recommender systems, and, most recently, robotics systems.
 <!--  -->
-One of my hobbies is to publishing broadly across various systems-related venues. So far, I have published first-author papers in databases (SIGMOD, VLDB), high-performance computing (SC), computer architecture (ISCA), ML systems (MLSys), and data mining (KDD). OSDI/SOSP is one box I didn't check during my PhD, but it is very much on my agenda as a faculty member! Pro tip: I wouldn't recommend doing this as a new PhD student though, as you will have a hard time to find and settle into a research community.
+
 
 
 <!-- However, as Moore's Law fades, we can no longer rely on automatic performance gains from technology scaling.  -->
@@ -49,7 +49,7 @@ One of my hobbies is to publishing broadly across various systems-related venues
 <!-- [<img src="https://wenqijiang.github.io/images/cv-icon.png" alt="CV" style="width: 30px; height: 30px;">](https://wenqijiang.github.io/files/2024.7.6_Wenqi_Jiang_CV.pdf) -->
 <!-- [<img src="https://wenqijiang.github.io/images/google-scholar-icon.png" alt="Google Scholar" style="width: 30px; height: 30px;">](https://scholar.google.com/citations?user=0gT0jzkAAAAJ&hl=en&oi=ao) -->
 
-<a href="https://wenqijiang.github.io/files/2026.2.15_Wenqi_Jiang_CV.pdf" title="Download CV" style="margin-right: 10px;">
+<a href="/files/2026.7.3_Wenqi_Jiang_CV.pdf" title="Download CV" style="margin-right: 10px;">
     <img src="https://wenqijiang.github.io/images/cv-icon.png" alt="CV Icon" style="vertical-align: middle; width: 25px; height: 25px;">
     CV
 </a>

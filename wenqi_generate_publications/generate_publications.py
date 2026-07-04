@@ -1,3 +1,5 @@
+import argparse
+import re
 import yaml
 
 # load "publications.yaml"
@@ -5,13 +7,13 @@ with open('publications.yaml', 'r') as f:
 	all_pubs = yaml.load(f, Loader=yaml.FullLoader)
 tag_order = ['conference', 'journal', 'workshop', 'tutorial', 'preprint']
 
-print(all_pubs)
-header = '''---
+def get_header(permalink):
+	return '''---
 title: ""
-permalink: /publications/
+permalink: %s
 author_profile: true
 ---
-'''
+''' % permalink
 
 def tag_to_header(tag):
 	if tag == 'preprint':
@@ -39,6 +41,21 @@ def classify_publications(all_pubs):
 		classified_pubs[pub['tag']].append(pub)
 	return classified_pubs
 
+def publication_time_key(pub):
+	"""
+	Sort by optional date first, then year. Supported date formats:
+	YYYY, YYYY-MM, YYYY-MM-DD, YYYY.MM, and YYYY.MM.DD.
+	"""
+	raw_date = str(pub.get('date', pub.get('year', '0')))
+	parts = [int(part) for part in re.findall(r'\d+', raw_date)]
+	parts = (parts + [0, 0, 0])[:3]
+	return tuple(parts)
+
+def get_publications_by_time(all_pubs):
+	indexed_pubs = list(enumerate(all_pubs.values()))
+	indexed_pubs.sort(key=lambda item: (publication_time_key(item[1]), -item[0]), reverse=True)
+	return [pub for _, pub in indexed_pubs]
+
 def get_pub_str(pub):
 	"""
 	Pub: a single entry (dict) containing publicatoin information
@@ -54,19 +71,14 @@ def get_pub_str(pub):
 	pub_str = '\n\n'
 
 	# first line: title
-	if 'short_venue' in pub:
-		if 'black_short_venue' in pub and pub['black_short_venue']:
-			if color_short_venue == 'green':
-				pub_str += '<span style="color:#009051"> [<b>' + pub['short_venue'] + '</b>]</span> '
-			elif color_short_venue == 'blue':
-				pub_str += '<span style="color:#071BA0"> [<b>' + pub['short_venue'] + '</b>]</span> '
-			else:
-				pub_str += '<span style="color:black"> [<b>' + pub['short_venue'] + '</b>]</span> '
+	show_short_venue_in_title = 'short_venue' in pub and 'black_short_venue' in pub and pub['black_short_venue']
+	if show_short_venue_in_title:
+		if color_short_venue == 'green':
+			pub_str += '<span style="color:#009051"> [<b>' + pub['short_venue'] + '</b>]</span> '
+		elif color_short_venue == 'blue':
+			pub_str += '<span style="color:#071BA0"> [<b>' + pub['short_venue'] + '</b>]</span> '
 		else:
-			# no color
-			pub_str += '<span style="color:black"> [' + pub['short_venue'] + ']</span> '
-			# with color
-			# pub_str += '<span style="color:#009051"> [' + pub['short_venue'] + ']</span> '
+			pub_str += '<span style="color:black"> [<b>' + pub['short_venue'] + '</b>]</span> '
 
 	if color_paper_title == 'blue':
 		# blue + bold
@@ -107,6 +119,8 @@ def get_pub_str(pub):
 		# 	else:
 		# 		pub_str += pub['short_venue'] + ': '
 		pub_str += pub['venue']
+		if 'short_venue' in pub and not show_short_venue_in_title:
+			pub_str += ' (' + pub['short_venue'] + ')'
 		pub_str += '<br>\n'
 
 	# optional award line
@@ -116,21 +130,51 @@ def get_pub_str(pub):
 
 	return pub_str
 
-if __name__ == '__main__':
+def parse_args():
+	parser = argparse.ArgumentParser(description='Generate publication markdown.')
+	parser.add_argument('--mode', choices=['split', 'mixed'], default='mixed',
+		help='split groups publications by type; mixed emits one chronological list')
+	parser.add_argument('--output', default=None,
+		help='output file path; defaults to publications.md for mixed and publications_by_type.md for split')
+	parser.add_argument('--permalink', default=None,
+		help='Jekyll permalink; defaults to /publications/ for mixed and /publications_by_type/ for split')
+	parser.add_argument('--verbose', action='store_true',
+		help='print parsed publication data')
+	return parser.parse_args()
 
-	classified_pubs = classify_publications(all_pubs)
+if __name__ == '__main__':
+	args = parse_args()
+	if args.verbose:
+		print(all_pubs)
 
 	out_str = ''
-	out_str += header
+	permalink = args.permalink
+	if permalink is None:
+		permalink = '/publications/' if args.mode == 'mixed' else '/publications_by_type/'
+	out_str += get_header(permalink)
 
-	for tag in tag_order:
-		if len(classified_pubs[tag]) > 0:
-			out_str += tag_to_header(tag) + '\n'
-			for pub in classified_pubs[tag]:
-				out_str += get_pub_str(pub) + '\n\n'
+	if args.mode == 'split':
+		classified_pubs = classify_publications(all_pubs)
+		for tag in tag_order:
+			if len(classified_pubs[tag]) > 0:
+				out_str += tag_to_header(tag) + '\n'
+				for pub in classified_pubs[tag]:
+					out_str += get_pub_str(pub) + '\n\n'
+	else:
+		out_str += '## Publications\n'
+		for pub in get_publications_by_time(all_pubs):
+			out_str += get_pub_str(pub) + '\n\n'
+
+	output = args.output
+	if output is None:
+		output = 'publications.md' if args.mode == 'mixed' else 'publications_by_type.md'
 	
-	with open('publications.md', 'w') as f:
+	with open(output, 'w') as f:
 		f.write(out_str)
 
-	print("Move to _pages/publications.md: cp publications.md ../_pages/")
+	print("Wrote %s" % output)
+	if args.mode == 'mixed':
+		print("Move to _pages/publications.md: cp %s ../_pages/publications.md" % output)
+	else:
+		print("Move to _pages/publications_by_type.md: cp %s ../_pages/publications_by_type.md" % output)
 	print("Serve locally:\nsource ~/.bashrc\ncd ..\nbundle exec jekyll serve")

@@ -3,7 +3,35 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-## Conference Papers
+## Publications
+
+
+<span style="color:black">ROSA: A Robotics Foundation Model Serving System for Robot Factories</span> [[Paper]](https://arxiv.org/abs/2607.01088)<br>
+<span style="color:grey"><span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>, Jason Clemons, Rowland O'Flaherty, Hugo Hadfield, Alperen Degirmenci, Shuran Song, Yashraj Narang, and Christos Kozyrakis</span><br>
+arXiv preprint (arXiv'26)<br>
+
+
+
+
+<span style="color:black">How Fast Can I Run My VLA? Demystifying VLA Inference Performance with VLA-Perf</span> [[Paper]](https://arxiv.org/abs/2602.18397)<br>
+<span style="color:grey"><span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>, Jason Clemons, Karu Sankaralingam, and Christos Kozyrakis</span><br>
+arXiv preprint (arXiv'26)<br>
+
+
+
+
+<span style="color:black">Enabling the Robotic Revolution: Bridging Performance Gap between Present and Future</span><br>
+<span style="color:grey">Qijing Huang, <span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>, Christos Kozyrakis, and Jason Clemons</span><br>
+IEEE/JSAP Symposium on VLSI Technology and Circuits (VLSI'26)<br>
+
+
+
+
+<span style="color:black">HEXGEN-FLOW: Optimizing LLM Inference Request Scheduling for Agentic Text-to-SQL</span> [[Paper]](https://arxiv.org/abs/2505.05286)<br>
+<span style="color:grey">You Peng, Youhe Jiang, <span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>, Chen Wang, and Binhang Yuan</span><br>
+IEEE International Conference on Data Engineering (ICDE'26)<br>
+
+
 
 
 <span style="color:#009051"> [<b>ISCA'25</b>]</span> <span style="color:black">RAGO: Systematic Performance Optimization for Retrieval-Augmented Generation Serving</span> [[Paper]](https://arxiv.org/abs/2503.14649) [[Talk]](https://youtu.be/cP6RiNRJsVI) [[Code]](https://github.com/google/rago)<br>
@@ -63,26 +91,11 @@ The International Conference for High Performance Computing, Networking, Storage
 
 
 
-<span style="color:#009051"> [<b>KDD'21</b>]</span> <span style="color:black">FleetRec: Large-Scale Recommendation Inference on Hybrid GPU-FPGA Clusters</span> [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447548.3467139?casa_token=KETIiL8HG6oAAAAA:rOygoffuHx-V_HjsNReM1ErnbH1AsOt6EJgp8odg7fUJHWhFb1c82hY0D4U8PoZf7G9TOP8QMToG2A) [[Talk]](https://www.youtube.com/watch?v=7LL-6jPR-l4&t=2s) [[Code]](https://github.com/fpgasystems/GPU-FPGA-Recommendation-System)<br>
-<span style="color:grey"><span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>\*, Zhenhao He\*, Shuai Zhang, Kai Zeng, Liang Feng, Jiansong Zhang, Tongxuan Liu, Yong Li, Jingren Zhou, Ce Zhang, and Gustavo Alonso</span><br>
-Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining<br>
+<span style="color:black">Data Processing with FPGAs on Modern Architectures</span> [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3555041.3589410?casa_token=VwR_uiM-hLgAAAAA:sDCBaEV-PwKO07yGNkngnVlxywHnp61rkL4M7aFE8FlIC5RXgoBkAWR9zV-pYHiOdRchNpOOHIi2zAE) [[Website]](https://systems.ethz.ch/research/data-processing-on-modern-hardware/hacc/sigmod-23-tutorial--data-processing-on-fpgas-with-modern-archite.html)<br>
+<span style="color:grey"><span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>, Dario Korolija, and Gustavo Alonso</span><br>
+International Conference on Management of Data (SIGMOD'23 Tutorial)<br>
 
 
-
-
-<span style="color:black"> [FPL'21]</span> <span style="color:black">Distributed Recommendation Inference on FPGA Clusters</span> [[Paper]](https://ieeexplore.ieee.org/abstract/document/9556456?casa_token=i6-KNe_mgqQAAAAA:XVVQqTyccq7JC8hKFzoVbkwvpdTm544dKUPoEJEa13erbeNJc0WyqkLmgwIwscVQ8nQcYGx15JI) [[Code]](https://github.com/fpgasystems/Distributed_Recommendation_Inference_on_FPGA_Clusters)<br>
-<span style="color:grey">Yu Zhu, Zhenhao He, <span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>, Kai Zeng, Jingren Zhou, and Gustavo Alonso</span><br>
-31th International Conference on Field-Programmable Logic and Applications<br>
-
-
-
-
-<span style="color:#009051"> [<b>MLSys'21</b>]</span> <span style="color:black">MicroRec: Efficient Recommendation Inference by Hardware and Data Structure Solutions</span> [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/9e9a5486cb2f8e44d5b5fedd2a9e5fcd-Abstract.html) [[Talk]](https://www.youtube.com/watch?v=SJ0ze3p0GzU) [[Code]](https://github.com/fpgasystems/FPGA-Recommendation-Accelerator)<br>
-<span style="color:grey"><span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>, Zhenhao He, Shuai Zhang, Thomas B. Preußer, Kai Zeng, Liang Feng, Jiansong Zhang, Tongxuan Liu, Yong Li, Jingren Zhou, Ce Zhang, and Gustavo Alonso</span><br>
-4th Conference on Machine Learning and Systems<br>
-
-
-## Journal Papers
 
 
 <span style="color:black">Dynamic Sampling and Selective Masking for Communication-Efficient Federated Learning</span> [[Paper]](https://ieeexplore.ieee.org/abstract/document/9546691)<br>
@@ -90,11 +103,24 @@ Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discove
 IEEE Intelligent Systems<br>
 
 
-## Tutorials
 
 
-<span style="color:black"> [SIGMOD'23]</span> <span style="color:black">Data Processing with FPGAs on Modern Architectures</span> [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3555041.3589410?casa_token=VwR_uiM-hLgAAAAA:sDCBaEV-PwKO07yGNkngnVlxywHnp61rkL4M7aFE8FlIC5RXgoBkAWR9zV-pYHiOdRchNpOOHIi2zAE) [[Website]](https://systems.ethz.ch/research/data-processing-on-modern-hardware/hacc/sigmod-23-tutorial--data-processing-on-fpgas-with-modern-archite.html)<br>
-<span style="color:grey"><span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>, Dario Korolija, and Gustavo Alonso</span><br>
-International Conference on Management of Data<br>
+<span style="color:#009051"> [<b>KDD'21</b>]</span> <span style="color:black">FleetRec: Large-Scale Recommendation Inference on Hybrid GPU-FPGA Clusters</span> [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447548.3467139?casa_token=KETIiL8HG6oAAAAA:rOygoffuHx-V_HjsNReM1ErnbH1AsOt6EJgp8odg7fUJHWhFb1c82hY0D4U8PoZf7G9TOP8QMToG2A) [[Talk]](https://www.youtube.com/watch?v=7LL-6jPR-l4&t=2s) [[Code]](https://github.com/fpgasystems/GPU-FPGA-Recommendation-System)<br>
+<span style="color:grey"><span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>\*, Zhenhao He\*, Shuai Zhang, Kai Zeng, Liang Feng, Jiansong Zhang, Tongxuan Liu, Yong Li, Jingren Zhou, Ce Zhang, and Gustavo Alonso</span><br>
+Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining<br>
+
+
+
+
+<span style="color:black">Distributed Recommendation Inference on FPGA Clusters</span> [[Paper]](https://ieeexplore.ieee.org/abstract/document/9556456?casa_token=i6-KNe_mgqQAAAAA:XVVQqTyccq7JC8hKFzoVbkwvpdTm544dKUPoEJEa13erbeNJc0WyqkLmgwIwscVQ8nQcYGx15JI) [[Code]](https://github.com/fpgasystems/Distributed_Recommendation_Inference_on_FPGA_Clusters)<br>
+<span style="color:grey">Yu Zhu, Zhenhao He, <span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>, Kai Zeng, Jingren Zhou, and Gustavo Alonso</span><br>
+31th International Conference on Field-Programmable Logic and Applications (FPL'21)<br>
+
+
+
+
+<span style="color:#009051"> [<b>MLSys'21</b>]</span> <span style="color:black">MicroRec: Efficient Recommendation Inference by Hardware and Data Structure Solutions</span> [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/9e9a5486cb2f8e44d5b5fedd2a9e5fcd-Abstract.html) [[Talk]](https://www.youtube.com/watch?v=SJ0ze3p0GzU) [[Code]](https://github.com/fpgasystems/FPGA-Recommendation-Accelerator)<br>
+<span style="color:grey"><span style="color:rgb(50,50,50)"><b>Wenqi Jiang</b></span>, Zhenhao He, Shuai Zhang, Thomas B. Preußer, Kai Zeng, Liang Feng, Jiansong Zhang, Tongxuan Liu, Yong Li, Jingren Zhou, Ce Zhang, and Gustavo Alonso</span><br>
+4th Conference on Machine Learning and Systems<br>
 
 

@@ -128,6 +128,7 @@ include:
   - files
 exclude:
   - "wenqi_generate_publications"
+  - "Wenqi_Jiang_CV"
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

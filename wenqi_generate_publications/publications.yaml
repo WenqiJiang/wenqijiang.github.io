@@ -4,6 +4,18 @@
 # Optional:
 #    venue, short_venue, black_short_venue, paper, code, talk, website, addtional
 
+rosa:
+  title: 'ROSA: A Robotics Foundation Model Serving System for Robot Factories'
+  authors: Wenqi Jiang, Jason Clemons, Rowland O'Flaherty, Hugo Hadfield, Alperen Degirmenci, Shuran Song, Yashraj Narang, and Christos Kozyrakis
+  tag: preprint
+  year: 2026
+
+  venue: arXiv preprint
+  short_venue: arXiv'26
+  black_short_venue: false
+
+  paper: https://arxiv.org/abs/2607.01088
+
 vlaperf:
   title: 'How Fast Can I Run My VLA? Demystifying VLA Inference Performance with VLA-Perf'
   authors: Wenqi Jiang, Jason Clemons, Karu Sankaralingam, and Christos Kozyrakis
@@ -155,7 +167,7 @@ fpga_sigmod_tutorial23:
   tag: tutorial
 
   venue: International Conference on Management of Data
-  short_venue: SIGMOD'23
+  short_venue: SIGMOD'23 Tutorial
   black_short_venue: false
   paper: https://dl.acm.org/doi/pdf/10.1145/3555041.3589410?casa_token=VwR_uiM-hLgAAAAA:sDCBaEV-PwKO07yGNkngnVlxywHnp61rkL4M7aFE8FlIC5RXgoBkAWR9zV-pYHiOdRchNpOOHIi2zAE
   website: https://systems.ethz.ch/research/data-processing-on-modern-hardware/hacc/sigmod-23-tutorial--data-processing-on-fpgas-with-modern-archite.html
@@ -207,4 +219,3 @@ MicroRec:
   paper: https://proceedings.mlsys.org/paper_files/paper/2021/hash/9e9a5486cb2f8e44d5b5fedd2a9e5fcd-Abstract.html
   talk: https://www.youtube.com/watch?v=SJ0ze3p0GzU
   code: https://github.com/fpgasystems/FPGA-Recommendation-Accelerator
-
