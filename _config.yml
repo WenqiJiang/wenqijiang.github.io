@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Wenqi Jiang"
 title_separator          : "-"
 name                     : &name "Wenqi Jiang"
-description              : &description "PhD Student, Dept. of Computer Science, ETH Zurich"
+description              : &description "Incoming Assistant Professor at the National University of Singapore working on full-stack ML systems and AI infrastructure."
 # Wenqi: Seems http://people.inf.ethz.ch/wejiang will lead to incorrect display!
 # Use github.io instead
 url                      : https://wenqijiang.github.io # http://people.inf.ethz.ch/wejiang #https://wenqijiang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

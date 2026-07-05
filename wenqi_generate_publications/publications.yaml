@@ -108,7 +108,7 @@ piperag:
   tag: conference
   year: 2025
 
-  venue: Proceedings of the 31th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining
+  venue: Proceedings of the 31st ACM SIGKDD International Conference on Knowledge Discovery and Data Mining
   short_venue: KDD'25
   black_short_venue: true
   paper: https://arxiv.org/abs/2403.05676
@@ -125,7 +125,7 @@ msmacroweb:
   short_venue: WWW'24
   black_short_venue: true
 
-  paper: https://arxiv.org/abs/2310.09949
+  paper: https://arxiv.org/abs/2405.07526
 
 # chameleon_h2rc:
 #   title: 'Chameleon: a Disaggregated CPU, GPU, and FPGA System for Retrieval-Augmented Language Models'
@@ -201,7 +201,7 @@ distriRec:
   year: 2021
   tag: conference
 
-  venue: 31th International Conference on Field-Programmable Logic and Applications
+  venue: 31st International Conference on Field-Programmable Logic and Applications
   short_venue: FPL'21
   black_short_venue: false
   paper: https://ieeexplore.ieee.org/abstract/document/9556456?casa_token=i6-KNe_mgqQAAAAA:XVVQqTyccq7JC8hKFzoVbkwvpdTm544dKUPoEJEa13erbeNJc0WyqkLmgwIwscVQ8nQcYGx15JI

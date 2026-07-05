@@ -29,7 +29,7 @@ My work has been recognized with a VLDB Best Paper Award, the ML and Systems Ris
 
 <!-- My research centers around developing efficient <b>vector data systems on modern hardware</b>, an essential topic in today's <b>systems for machine learning</b>. -->
 
-I work on **full-stack ML systems / AI infrastructure**, and my most recent interests include **database + AI** and **robotics systems**. Rather than focusing on a single layer of the stack, I work across algorithms, systems, and hardware. As a result, I publish broadly across various systems-related venues, suchh as databases (SIGMOD, VLDB), high-performance computing (SC), computer architecture (ISCA), ML systems (MLSys), and data mining (KDD). My research has pioneered several important topics in machine learning systems, including retrieval-augmented generation (RAG), vector search, recommender systems, and, most recently, robotics systems.
+I work on **full-stack ML systems / AI infrastructure**, and my most recent interests include **database + AI** and **robotics systems**. Rather than focusing on a single layer of the stack, I work across algorithms, systems, and hardware. As a result, I publish broadly across various systems-related venues, such as databases (SIGMOD, VLDB), high-performance computing (SC), computer architecture (ISCA), ML systems (MLSys), and data mining (KDD). My research has pioneered several important topics in machine learning systems, including retrieval-augmented generation (RAG), vector search, recommender systems, and, most recently, robotics systems.
 <!--  -->
 
 
