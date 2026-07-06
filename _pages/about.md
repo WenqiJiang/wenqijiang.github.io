@@ -16,7 +16,7 @@ I am an incoming Assistant Professor at the National University of Singapore, st
 <!--  -->
 Currently, I am a visiting researcher at NVIDIA, where I am fortunate to work with [Christos Kozyrakis](https://www.stanford.edu/~kozyraki/).
 <!--  -->
-Before that, I received my PhD at [ETH Zurich](https://ethz.ch/), where I was fortunate to be advised by [Gustavo Alonso](https://people.inf.ethz.ch/alonso/) and [Torsten Hoefler](https://htor.inf.ethz.ch/), and my thesis was recognized with the [SIGMOD Jim Gray Doctoral Dissertation Award](https://sigmod.org/sigmod-awards/sigmod-jim-gray-doctoral-dissertation-award/).
+Before that, I received my PhD at [ETH Zurich](https://ethz.ch/), where I was fortunate to be advised by [Gustavo Alonso](https://people.inf.ethz.ch/alonso/) and [Torsten Hoefler](https://htor.inf.ethz.ch/), and my thesis was recognized with the ACM [SIGMOD Jim Gray Doctoral Dissertation Award](https://sigmod.org/sigmod-awards/sigmod-jim-gray-doctoral-dissertation-award/).
 <!--  -->
 I earned my Master's degree from Columbia University and my Bachelor's degree from Huazhong University of Science and Technology, both with honors.
 <!--  -->
