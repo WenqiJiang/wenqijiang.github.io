@@ -12,8 +12,8 @@ Singapore 117416<br>
 
 ## Email
 
-jiangwenqi233 [at] gmail [dot] com
+wenqi [dot] jiang [at] nus.edu.sg
 
-[My ETH email is about to expire. You can find me by Gmail before I join NUS.]
+<!-- jiangwenqi233 [at] gmail [dot] com -->
 
 <!-- wenqi [dot] jiang [at] inf.ethz.ch -->

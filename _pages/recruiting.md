@@ -19,8 +19,6 @@ To learn our latest news about hiring and research, feel free to follow my [RedN
 
 PhD Students: The Future Computing Lab (FCL) at NUS always looks for highly-motivated PhD students. Please apply through the [official application channel](https://www.comp.nus.edu.sg/programmes/pg/phdcs/application/) and mention my name in your application. Admissions at NUS School of Computing are mostly decided by the committee instead of a single professor. Thus, reaching out to me in advance may not give you an advantage unless there is an exceptional match. The committee will get in touch with you if we find you as a strong candidate after reviewing your application (see [FAQ](#faq) below). After you submit your application, please fill out this [PhD Admission Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdTOdF2OL1FdwiKUgV3Cnsa6yLihKaJYoGkr70aZgmF_8iySQ/viewform?usp=header) to make sure that I am aware of your application.
 
-<!-- **Note: my name is not in the NUS PhD application system at the moment, because I haven't officially joined NUS yet.** You can either leave the advisor entry as empty or choose another professor that you are interested in. As long as you mention my name in your application material, it should be fine.  -->
-
 Postdocs: We do not have postdoc openings at the moment, but will update the website once there is one.
 
 Interns: We might hire a very small number of paid intern students for summer 2027. Please check out the website early 2027 for more details.

@@ -12,11 +12,11 @@ redirect_from:
 
 <!-- Hi! My name is Wenqi Jiang.  -->
 
-I am an incoming Assistant Professor at the National University of Singapore, starting from Fall 2026. 
+I am an Assistant Professor at the National University of Singapore.
 <!--  -->
-Currently, I am a visiting researcher at NVIDIA, where I am fortunate to work with [Christos Kozyrakis](https://www.stanford.edu/~kozyraki/).
+Before joining NUS, I worked at NVIDIA Research, where I was fortunate to work with [Christos Kozyrakis](https://www.stanford.edu/~kozyraki/).
 <!--  -->
-Before that, I received my PhD at [ETH Zurich](https://ethz.ch/), where I was fortunate to be advised by [Gustavo Alonso](https://people.inf.ethz.ch/alonso/) and [Torsten Hoefler](https://htor.inf.ethz.ch/), and my thesis was recognized with the [ACM SIGMOD Jim Gray Doctoral Dissertation Award](https://sigmod.org/sigmod-awards/sigmod-jim-gray-doctoral-dissertation-award/).
+I received my PhD from [ETH Zurich](https://ethz.ch/), where I was fortunate to be advised by [Gustavo Alonso](https://people.inf.ethz.ch/alonso/) and [Torsten Hoefler](https://htor.inf.ethz.ch/). My thesis was recognized with the [ACM SIGMOD Jim Gray Doctoral Dissertation Award](https://sigmod.org/sigmod-awards/sigmod-jim-gray-doctoral-dissertation-award/).
 <!--  -->
 I earned my Master's degree from Columbia University and my Bachelor's degree from Huazhong University of Science and Technology, both with honors.
 <!--  -->
@@ -29,7 +29,7 @@ My work has been recognized with a VLDB Best Paper Award, the ML and Systems Ris
 
 <!-- My research centers around developing efficient <b>vector data systems on modern hardware</b>, an essential topic in today's <b>systems for machine learning</b>. -->
 
-I work on **full-stack ML systems / AI infrastructure**, and my most recent interests include **database + AI** and **robotics systems**. Rather than focusing on a single layer of the stack, I work across algorithms, systems, and hardware. As a result, I publish broadly across various systems-related venues, such as databases (SIGMOD, VLDB), high-performance computing (SC), computer architecture (ISCA), ML systems (MLSys), and data mining (KDD). My research has pioneered several important topics in machine learning systems, including retrieval-augmented generation (RAG), vector search, recommender systems, and, most recently, robotics systems.
+I work on **full-stack ML systems and AI infrastructure**, with recent interests in **data systems for AI** and **robotics systems**. Rather than focusing on a single layer of the stack, I work across algorithms, systems, and hardware. As a result, I publish broadly across systems-related venues, including databases (SIGMOD, VLDB), high-performance computing (SC), computer architecture (ISCA), ML systems (MLSys), and data mining (KDD). My research has contributed to several important topics in machine learning systems, including retrieval-augmented generation (RAG), vector search, recommender systems, and robotics systems.
 <!--  -->
 
 
@@ -58,7 +58,7 @@ I work on **full-stack ML systems / AI infrastructure**, and my most recent inte
     Scholar
 </a>
 
-[My ETH email is about to expire. You can find me by Gmail before I join NUS.]
+Contact: wenqi [dot] jiang [at] nus.edu.sg
 
 <!-- <p style="color: red; font-weight: bold;">
     Hiring: I am looking for multiple PhD students to join my lab. You can find more info <a href="https://wenqijiang.github.io/recruiting" style="color: red; text-decoration: underline;">here</a>.
