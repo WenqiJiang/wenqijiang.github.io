@@ -28,6 +28,7 @@ Interns: We might hire a very small number of paid intern students for summer 20
 We are broadly interested in building **efficient computing systems for important workloads (== AI?)**, and we work **across the stack** (e.g., topics spanning ML, databases, systems, and architecture). Some topics we are currently exploring include:
 
 - **Data Systems for AI**
+  - Semantic query processing
   - Vector databases and RAG
   - Data management for robotics 
 - **Systems for robotics and embodied AI**
