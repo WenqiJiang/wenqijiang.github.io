@@ -19,7 +19,7 @@ To learn our latest news about hiring and research, feel free to follow my [RedN
 
 PhD Students: The Future Computing Lab (FCL) at NUS always looks for highly-motivated PhD students. Please apply through the [official application channel](https://www.comp.nus.edu.sg/programmes/pg/phdcs/application/) and mention my name in your application. Admissions at NUS School of Computing are mostly decided by the committee instead of a single professor. Thus, reaching out to me in advance may not give you an advantage unless there is an exceptional match. The committee will get in touch with you if we find you as a strong candidate after reviewing your application (see [FAQ](#faq) below). After you submit your application, please fill out this [PhD Admission Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdTOdF2OL1FdwiKUgV3Cnsa6yLihKaJYoGkr70aZgmF_8iySQ/viewform?usp=header) to make sure that I am aware of your application.
 
-Postdocs: We do not have postdoc openings at the moment, but will update the website once there is one.
+Postdocs: We have one postdoc position about [computing for embodied AI](https://cde.nus.edu.sg/artic/home/news-and-events/). Please apply by Nov 2026 if you are interested in this topic.
 
 Interns: We might hire a very small number of paid intern students for summer 2027. Please check out the website early 2027 for more details.
 
@@ -27,13 +27,11 @@ Interns: We might hire a very small number of paid intern students for summer 20
 
 We are broadly interested in building **efficient computing systems for important workloads (== AI?)**, and we work **across the stack** (e.g., topics spanning ML, databases, systems, and architecture). Some topics we are currently exploring include:
 
-- **Vector-centric ML Systems**
-  - Vector search and vector databases
-  - Retrieval-augmented generation
-  - Agent memory
-  - KV cache management
+- **Data Systems for AI**
+  - Vector databases and RAG
+  - Data management for robotics 
 - **Systems for robotics and embodied AI**
-  - Software systems for robots
+  - Inference systems for robots
   - Efficient robotics algorithms
 
 Feel free to check out our [publication list](https://wenqijiang.github.io/publications/) to learn more about our research. Some representative examples include [RAGO](https://arxiv.org/abs/2503.14649) (systems for ML/RAG), [Chameleon](https://arxiv.org/abs/2310.09949) (hardware/software for ML/vector search), [PipeRAG](https://www.amazon.science/publications/piperag-fast-retrieval-augmented-generation-via-adaptive-pipeline-parallelism) (efficient ML algorithm). You can also check out my [talk](https://www.youtube.com/watch?v=oTkhURtg3U8) about my PhD work and the [slides](https://wenqijiang.github.io/files/2025.6.3_vector_centric_ML_systems_talk.pdf).
