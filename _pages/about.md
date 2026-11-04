@@ -61,7 +61,7 @@ I work on **full-stack ML systems and AI infrastructure**, with recent interests
 Contact: wenqi [dot] jiang [at] nus.edu.sg
 
 <p style="color: red; font-weight: bold;">
-    Hiring: I am looking for PhD students and postdoc to join my lab. You can find more info <a href="https://wenqijiang.github.io/recruiting" style="color: red; text-decoration: underline;">here</a>.
+    Hiring: We are looking for PhD students and postdocs. Please checkout the <a href="https://wenqijiang.github.io/recruiting" style="color: red; text-decoration: underline;">recruiting page</a>.
 </p>
 
 <!-- Postdoc and intern positions may be available to outstanding candidates. -->

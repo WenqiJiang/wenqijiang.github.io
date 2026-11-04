@@ -17,9 +17,9 @@ To learn our latest news about hiring and research, feel free to follow my [RedN
 
 ## Positions
 
-PhD Students: The Future Computing Lab (FCL) at NUS always looks for highly-motivated PhD students. Please apply through the [official application channel](https://www.comp.nus.edu.sg/programmes/pg/phdcs/application/) and mention my name in your application. Admissions at NUS School of Computing are mostly decided by the committee instead of a single professor. Thus, reaching out to me in advance may not give you an advantage unless there is an exceptional match. The committee will get in touch with you if we find you as a strong candidate after reviewing your application (see [FAQ](#faq) below). After you submit your application, please fill out this [PhD Admission Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdTOdF2OL1FdwiKUgV3Cnsa6yLihKaJYoGkr70aZgmF_8iySQ/viewform?usp=header) to make sure that I am aware of your application.
+**PhD Students**: The Future Computing Lab (FCL) at NUS always looks for highly-motivated PhD students. Please apply through the [official application channel](https://www.comp.nus.edu.sg/programmes/pg/phdcs/application/) and mention my name in your application. Admissions at NUS School of Computing are mostly decided by the committee instead of a single professor. Thus, reaching out to me in advance may not give you an advantage unless there is an exceptional match. The committee will get in touch with you if we find you as a strong candidate after reviewing your application (see [FAQ](#faq) below). After you submit your application, please fill out this [PhD Admission Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdTOdF2OL1FdwiKUgV3Cnsa6yLihKaJYoGkr70aZgmF_8iySQ/viewform?usp=header) to make sure that I am aware of your application.
 
-Postdocs: We have one postdoc position about [computing for embodied AI](https://cde.nus.edu.sg/artic/home/news-and-events/). Please apply by Nov 2026 if you are interested in this topic.
+**Postdocs**: We have one postdoc position about [computing for embodied AI](https://cde.nus.edu.sg/artic/home/news-and-events/). Please apply by Nov 2026 if you are interested in this topic.
 
 Interns: We might hire a very small number of paid intern students for summer 2027. Please check out the website early 2027 for more details.
 
@@ -85,7 +85,7 @@ In some cases, faculty members who are willing to support you with their own ext
 
 - Should I reach out to you in advance before applying?
 
-Given the committee-based nature of the admission process, I cannot tell whether SoC will extend an offer to you or not, even if your profile is impressive. Therefore, for emails asking about your chances, I can only reply with “please apply.”
+I'd be happy to know that you plan to apply. However, given the committee-based nature of the admission process, I cannot tell whether SoC will extend an offer to you or not, even if your profile is impressive. Therefore, for emails asking about your chances, I can only tell you that the committee will make the final call.
 
 - What can I do after submitting my application?
 
